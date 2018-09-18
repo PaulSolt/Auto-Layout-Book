@@ -1,37 +1,38 @@
 # Auto Layout Book
-
-iPhone App UI Design with Auto Layout and Storyboards
-
 Paul Solt
 <Paul@SuperEasyApps.com>
 9-18-2018
 
-As I write each chapter I will be adjusting the outline.
+**Topic:** iPhone App UI Design with Auto Layout and Storyboards
+
+My rough draft outline for the [Auto Layout Book](http://bit.ly/AutoLayoutBook). Chapters and ideas are subject to change.
+
+NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something included.
 
 ## Chapter 1: Auto Layout 101 
 
 1. Why
 2. Colors
 3. Size + position
-	4. Coordinate system demo (gesture)
-	5. Points vs. pixels
-6. Rules for different screen types
-7. How to add constraints (Ways to add constraints: 1100 words)
-8. Real world example (build an app)
-	9. Tip Calculator (layout)
-	10. Challenge: do it again from scratch
-		11. Watch how I layout for iPhone 8
-	12. Add iPhone X support (Safe Areas)
-	13. Add iPhone 8 Plus support (larger … button stretching)
-	14. Add iPhone SE support (smaller buttons 44pt)
-	15. iPad + Split view (separate chapter)
-9. Let's break it (Fail early, try, fail, retry)
+	1. Coordinate system demo (gesture)
+	2. Points vs. pixels
+4. Rules for different screen types
+5. How to add constraints (Ways to add constraints: 1100 words)
+6. Real world example (build an app)
+	1. Tip Calculator (layout)
+	2. Challenge: do it again from scratch
+		1. Watch how I layout for iPhone 8
+	3. Add iPhone X support (Safe Areas)
+	4. Add iPhone 8 Plus support (larger … button stretching)
+	5. Add iPhone SE support (smaller buttons 44pt)
+	6. iPad + Split view (separate chapter)
+7. Let's break it (Fail early, try, fail, retry)
 	1. clue as to why things aren't working as planned
 	2. iOS examples (mac separate book)
-3. 3 page pamphlet (2 minute video as to why/how)
-4. Working code for 1st two chapters (easy to follow)
+8. 3 page pamphlet (2 minute video as to why/how)
+9. Working code for 1st two chapters (easy to follow)
 	5. Keep them interested
-6. Practical tutorials
+10. Practical tutorials
 
 ## Chapter 2: Auto Layout Fundamentals
 
