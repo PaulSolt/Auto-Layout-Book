@@ -1,6 +1,8 @@
 # Auto-Layout-Book-Log
 A beginners guide to Auto Layout using Xcode 10, Storyboards, and Interface Builder
 
+[Sign up to learn more >>](https://pages.convertkit.com/e119bf9a85/858c1c1a46)
+
 * Topic: iPhone UI and App Design
 * Length 
 	* 20 Chapters
