@@ -12,10 +12,61 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 ## Chapter 1: Auto Layout 101 
 
 1. Why
-2. Colors
-3. Size + position
-	1. Coordinate system demo (gesture)
-	2. Points vs. pixels
+	2. Examples of iPhone Sizes (Screenshots of an app)
+	3. Accessibility (larger fonts)
+	4. Responsive designs
+	5. Rules for positions/sizes
+	6. Size + position
+		1. Coordinate system demo (download app)
+	 	2. Points vs. pixels
+		3. Vector vs. pixels
+			4. 1x, 2x, 3x
+			5. PDF vectors
+			6. Preserving vector data (scaling up for accessibility)
+9. Constraints explained
+	10. Anotomy
+	11. Constant
+	12. Relation
+	13. Multiplier
+	14. Priority 
+	14. Multiple constraints
+8. Dive in: Real World Example
+	9. Add constraints to the Tip Calculator app
+		10. Centering Content in Container Views
+		11. Equal width contraints
+		12. Structural vs. accessory views
+	13. Images
+		14. Content mode
+		15. Clipping
+		16. Stretching
+	18. Undo/redo
+	19. Saving copies vs. Version Control (Github)
+	18. Challenge
+		19. Add iPhone X support (Safe Areas)
+21. How
+	3. 7 Ways to add constraints
+2. Colors of Auto Layout
+3. Breaking Constraints (unpredictable behavior)
+	4. Common Errors
+	5. Let's break it
+4. Size Classes + Rotation
+	5. We won't be using in this beginner's book
+	6. Many popular apps don't support rotation (Simplify)
+	7. iPad vs. iPhone
+	8. iPad Splitview
+9. The Obsolete iPhone SE (Design considerations)
+7. Design + 
+9. Welcome to Xcode
+	10. Panels
+	11. Issue Navigator
+	12. Document Outline
+	13. Storyboard Canvas
+	14. Auto Layout's Hidden Error Panel
+15. Images + Asset Catalog
+	16. Slicing
+	17. Stretchable images
+	18. Template images
+
 4. Rules for different screen types
 5. How to add constraints (Ways to add constraints: 1100 words)
 6. Real world example (build an app)
