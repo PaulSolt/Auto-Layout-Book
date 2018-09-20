@@ -12,7 +12,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 19 2018 21:57:50
 
-
+* Wrote: 869 words 
 * Inspired after watching "Dawn Wall" with Tommy Caldwell who scales the Yosemite "impossible" face called Dawn Wall.
 	* 6 years working on a goal
 		* Spring + Fall spent figuring out the traversals to make one unified climb
