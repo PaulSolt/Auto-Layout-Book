@@ -3,11 +3,24 @@ Paul Solt
 
 My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
-Goal
+## Goal
+
 * Restructure the outline
 * 1,500 words
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
+
+## September 19 2018 21:57:50
+
+
+* Inspired after watching "Dawn Wall" with Tommy Caldwell who scales the Yosemite "impossible" face called Dawn Wall.
+	* 6 years working on a goal
+		* Spring + Fall spent figuring out the traversals to make one unified climb
+
+## September 19 2018 17:24:33
+
+* Started writing some ideas … busy day working on contract work and UI testing … still feels like docs aren't fleshed out … I have yet to find the updated Apple docs
+
 
 
 ## September 18 2018 21:58:07

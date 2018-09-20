@@ -12,9 +12,13 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 ## Chapter 1: Auto Layout 101 
 
 1. Why
+	1. Design language for modern software UI
+	1. Size + position
 	2. Examples of iPhone Sizes (Screenshots of an app)
 	3. Accessibility (larger fonts)
 	4. Responsive designs
+	5. Resizable windows / split views / Air Play monitors
+2. What
 	5. Rules for positions/sizes
 	6. Size + position
 		1. Coordinate system demo (download app)
@@ -23,76 +27,63 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 			4. 1x, 2x, 3x
 			5. PDF vectors
 			6. Preserving vector data (scaling up for accessibility)
-9. Constraints explained
-	10. Anotomy
+3. Paper Auto Layout
+	10. #PaperAutoLayout Challenge
+	11. Sketch Instagram Story Editor (2018) on paper
+		12. Add rules for the distances (can you measure? xScope or best guess, or Photoshop inspect + count pixels / resolution)
+		10. 3 Equal width buttons
+		11. Instagram UI vs. Auto Layout constraints
+4. Xcode Interface Builder (Quick Tour)
+	6. Error Panels
+		7. Issue Navigator
+		8. Document Outline Error Panel
+	10. Utilities Panel
+	11. Canvas
+	12. Console Output (Errors)
+	13. Object Library (Xcode <=9 vs. Xcode 10+)
+		14. Somewhat of a random change to the UI design
+		15. Not well thought out, but it probably means we'll start seeing some other random (hopefully more coherent changes … a real window management system?)
+		10. Option + Click button to "pin"
+5. What is a constraint? 
+	10. Constraints explained simply
 	11. Constant
 	12. Relation
-	13. Multiplier
-	14. Priority 
-	14. Multiple constraints
-8. Dive in: Real World Example
-	9. Add constraints to the Tip Calculator app
-		10. Centering Content in Container Views
-		11. Equal width contraints
-		12. Structural vs. accessory views
-	13. Images
-		14. Content mode
-		15. Clipping
-		16. Stretching
-	18. Undo/redo
-	19. Saving copies vs. Version Control (Github)
-	18. Challenge
-		19. Add iPhone X support (Safe Areas)
-21. How
-	3. 7 Ways to add constraints
-2. Colors of Auto Layout
+
+TODO: get the reader to describe on paper how Instagram UI should be displayed #AutoLayoutOnPaper
+
+## Chapter 2: Test Drive Auto Layout
+
+1. Real World Example
+2. Design for one iPhone
+3. Add constraints to the Tip Calculator app
+	10. Centering Content in Container Views
+	11. Equal width contraints
+	12. Structural vs. accessory views
+4. Undo/redo/restart
 3. Breaking Constraints (unpredictable behavior)
 	4. Common Errors
 	5. Let's break it
-4. Size Classes + Rotation
-	5. We won't be using in this beginner's book
-	6. Many popular apps don't support rotation (Simplify)
-	7. iPad vs. iPhone
-	8. iPad Splitview
-9. The Obsolete iPhone SE (Design considerations)
-7. Design + 
-9. Welcome to Xcode
-	10. Panels
-	11. Issue Navigator
-	12. Document Outline
-	13. Storyboard Canvas
-	14. Auto Layout's Hidden Error Panel
-15. Images + Asset Catalog
-	16. Slicing
-	17. Stretchable images
-	18. Template images
+4. Colors of Auto Layout
+	5. Ambiguous
+	6. Conflicting
+4. Images
+	14. Content mode
+	15. Clipping
+	16. Stretching
+18. Challenge 1: Do it again from scratch
+19. Challenge 2: add iPhone X support (Safe Areas)
+20. Challenge 3: Reset to suggested constraints (does it work?)
+4. Add iPhone 8 Plus support (larger … button stretching)
+5. Add iPhone SE support (smaller buttons 44pt)
 
-4. Rules for different screen types
-5. How to add constraints (Ways to add constraints: 1100 words)
-6. Real world example (build an app)
-	1. Tip Calculator (layout)
-	2. Challenge: do it again from scratch
-		1. Watch how I layout for iPhone 8
-	3. Add iPhone X support (Safe Areas)
-	4. Add iPhone 8 Plus support (larger … button stretching)
-	5. Add iPhone SE support (smaller buttons 44pt)
-	6. iPad + Split view (separate chapter)
-7. Let's break it (Fail early, try, fail, retry)
-	1. clue as to why things aren't working as planned
-	2. iOS examples (mac separate book)
-8. 3 page pamphlet (2 minute video as to why/how)
-9. Working code for 1st two chapters (easy to follow)
-	5. Keep them interested
-10. Practical tutorials
-
-## Chapter 2: Auto Layout Fundamentals
+## Chapter 3: Auto Layout Fundamentals
 
 1. Layout for one device
 	2. Keep it simple, get something working
 	3. Design for iPhone 8 (or iPhone X)
 	4. Add constraints 
 	5. Tweak for other screen sizes (Repeat)
-6. Types of layout
+2. Types of layout
 	7. Percentage-based layouts
 	8. Fixed layouts
 	9. Relative layouts
@@ -101,6 +92,17 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	12. Accessory views
 13. Constraint 101
 	14. Anatomy of a constraint
+	13. Multiplier
+	14. Priority 
+	14. Multiple constraints 
+10. 7 Ways to add constraints
+4. Size Classes + Rotation
+	5. We won't be using in this beginner's book
+	6. Many apps do not support rotation (Facebook or Instagram) 
+	7. Unless it’s video content
+	8. Simplify
+	7. iPad vs. iPhone
+	8. iPad Splitview
 15. Single screen vs. scrollable screen
 	16. Different design considerations with layout
 	17. Scrollable interface for super large fonts (edge case and more work)
@@ -123,14 +125,33 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	34. Edge cases (sample data)
 	35. UITests 
 	36. Dark mode
-37. Rotation
-	38. Many apps do not support rotation (Facebook or Instagram)
-		39. Unless it’s video content
+15. Asset Catalog
+	16. Adding images to Xcode
+	16. Slicing
+	17. Stretchable images
+	18. Template images?
+16. Hugging + Stretching Priorities 
 
+
+## Chapter 4: Layout
+
+
+1. Layout the Tip Calculator App
+2. Layout the Instagram Story Camera
+3. Layout Calculator
+4. Workflow
+	5. Layout for one iPhone
+	5. Constraint for one iPhone
+	6. Tweet for every iPhone
+	7. Version control + saving / backups
+5. Limitations of Storyboard files
+6. Custom Views + composition
+	7. Simplifying constraints
+
+## Chapter 5: Thinking with Auto Layout
 
 
 ## 30-Day Auto Layout Challenge
-
 
 1. 30DaysAutoLayout
 2. Pinterest Mood board
