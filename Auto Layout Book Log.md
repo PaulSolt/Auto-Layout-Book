@@ -16,6 +16,18 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * Inspired after watching "Dawn Wall" with Tommy Caldwell who scales the Yosemite "impossible" face called Dawn Wall.
 	* 6 years working on a goal
 		* Spring + Fall spent figuring out the traversals to make one unified climb
+* Refactored the outline, it didn't feel right, but now I think I'm on the right track with the topics
+* Updated sections, reordered to make more logical
+	* Trying to make it as easy as possible to get something working
+	* Then we'll explain more complexities … don't talk about what we don't need to talk about yet.
+
+### New Section 1 Chapters
+
+1. Auto Layout 101
+2. Test Drive Auto Layout (Get in and do something)
+3. Auto Layout Fundamentals
+4. Layout  (You need more practice with layout before you constrain)
+5. Thinking with Auto Layout (Paper prototyping? prep for design?)
 
 ## September 19 2018 17:24:33
 
