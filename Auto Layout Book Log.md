@@ -10,6 +10,25 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## September 21 2018 22:41:11
+
+* 787 words
+* Tired, have a 5K race tomorrow … setting a timer for 5 minutes and then going to bed
+	* Did another 5 minutes … got to 620 … why not type a bit more … =)
+	* Going for a 22:00 5K time … 7'00" pace is my target
+* Spent all day on contract work … and just got back from a late night Ultimate Frisbee game
+* Had some fun programming a simple App Store keyword tool using NSLinguistics and text … very fun ideas for some projects
+
+
+## September 20 2018 22:01:52
+
+* 798 words - not great writing, but it's a start, and it's getting me to put in time and focus
+	* I need to start writing earlier on the day … the contract work is interrupting my flow, and it's harder than I thought it would be.
+* Spent all day on contract work … behind where I need to be, figuring out how to call Swift code from Objective-C 
+	* Trying to fix buggy logic
+
+
+
 ## September 19 2018 21:57:50
 
 * Wrote: 869 words 
