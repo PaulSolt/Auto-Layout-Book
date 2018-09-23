@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## September 23 2018 19:37:14
+
+* 888 words
+* I'm exhausted today after being in the sun all morning and early afternoon playing ultimate frisbee
+* I set the timer, wrote the first set of words, and then started a second and kept going.
+	* It felt good to start making some more progress, even if the writing quality is low right now, it's more important that I start to think through the different concepts, so that I can start to piece together the information that a beginner is going to need to know
+
+
 ## September 22 2018 21:24:12
 
 * 1249 words
