@@ -10,6 +10,18 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## September 22 2018 21:24:12
+
+* 1249 words
+	* Got into talking about my experiences demo'ing bomb dodge, and howimpratnt it is to do usability testing to catch issues before you invest tons of time into features
+* I'm again tired, trying to write at the end of the day because of all the activities
+	* Today I ran my fastest 5K race at 21:37 … close to a 7'00" pace … but I haven't looked at any of my stats yet
+	* We went to the market, and some food fests around Rochester
+* I don't really feel like writing, and I just want to get more sleep.
+* Tomorrow I'm getting up early, to write, so I'll definitely start to dig more into things … and I'm probably going to move writing to my 1st hour, like I wanted to, but haven't been able to do because of a contract deadline.
+	* That'll make it easier to sit and write, and not have to waste time … not writing the book.
+* Also, I'm super behind on finishing the chapters … so these chapters may or may not be short… we'll see.
+
 ## September 21 2018 22:41:11
 
 * 787 words
