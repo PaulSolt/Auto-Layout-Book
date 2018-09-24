@@ -10,9 +10,21 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## September 24 2018 08:19:51
+
+* 1558 words
+* Setup a new private Github to track changes to the book manuscript
+* Writing first thing in the morning (7:50am - 8:20am)
+* Way easier to write on a fresh mind, and way more ideas
+* Workbook ideas using "furniture arranging" to learn Layout
+	* Instagram layout to adapt the design to the bigger screens
+	* Or a simple button resizing example 
+	* Cut out and layout the designs on the workbook iPhone 8 screen and the iPhone Xs and iPhone Xs Max screens.
+
 ## September 23 2018 19:37:14
 
 * 888 words
+* Day 5
 * I'm exhausted today after being in the sun all morning and early afternoon playing ultimate frisbee
 * I set the timer, wrote the first set of words, and then started a second and kept going.
 	* It felt good to start making some more progress, even if the writing quality is low right now, it's more important that I start to think through the different concepts, so that I can start to piece together the information that a beginner is going to need to know
