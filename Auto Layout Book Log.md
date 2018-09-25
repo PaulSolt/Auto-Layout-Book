@@ -10,6 +10,17 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## September 25 2018 08:05:46
+
+* 1303 words
+* Installed Mojave yesterday
+	* Playing with the dark theme
+	* Super Easy Timer needs to be udpated to use the new dark theme APIs, so I can automatically switch the UI theme (3 themes included)
+* I need to design my own theme for Multimarkdown + Xcode
+	* I never seem to like the dark themes that other people make … so we'll have to investigate what colors will look good (especially for Multimarkdown)
+* I need to record myself using the new Xcode 10 as I add constraints, and then turn that into a chapter
+* Xcode 10.1 looks like it's going to make my "diagonal drag" unnecessary 
+
 ## September 24 2018 08:19:51
 
 * 1558 words
