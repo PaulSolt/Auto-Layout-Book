@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## September 26 2018 22:27:09
+
+
+* Day 8
+* 861 words
+* Recorded a 49 minute video on adding constraints that I need to transcribe and make it the chapter notes.
+* Today was off because I met with other iOS developers and didn't get a chance to finish my writing in the morning, like I have been enjoying.
+
 ## September 25 2018 08:05:46
 
 * 1303 words
