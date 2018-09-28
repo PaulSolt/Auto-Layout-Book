@@ -71,6 +71,7 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	15. Clipping
 	16. Stretching
 18. Challenge 1: Do it again from scratch
+19. Challenge 1a: connect the UI
 19. Challenge 2: add iPhone X support (Safe Areas)
 20. Challenge 3: Reset to suggested constraints (does it work?)
 4. Add iPhone 8 Plus support (larger … button stretching)

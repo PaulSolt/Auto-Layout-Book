@@ -10,16 +10,32 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+
+## September 28 2018 07:08:33
+
+* Day 11
+* I need to spend more time writing … so I'm blocking off more of my day to focus on layout changes.
+
+## September 27 2018 08:11:07
+
+
+* Day 10
+* Writing for 25 minutes at 7:50am
+* 1147 words
+* I'm watching my video that I recorded, and using it for inspiration on the topics that need to be discussed.
+* I need to finish watching the video to figure out how to explain the step by step, and caveats for differences in Xcode 10 from Xcode 9 … since it's very different.
+
 ## September 26 2018 22:27:09
 
 
-* Day 8
+* Day 9
 * 861 words
 * Recorded a 49 minute video on adding constraints that I need to transcribe and make it the chapter notes.
 * Today was off because I met with other iOS developers and didn't get a chance to finish my writing in the morning, like I have been enjoying.
 
 ## September 25 2018 08:05:46
 
+* Day 8 
 * 1303 words
 * Installed Mojave yesterday
 	* Playing with the dark theme
@@ -31,6 +47,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 24 2018 08:19:51
 
+* Day 7
 * 1558 words
 * Setup a new private Github to track changes to the book manuscript
 * Writing first thing in the morning (7:50am - 8:20am)
@@ -42,8 +59,8 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 23 2018 19:37:14
 
+* Day 6
 * 888 words
-* Day 5
 * I'm exhausted today after being in the sun all morning and early afternoon playing ultimate frisbee
 * I set the timer, wrote the first set of words, and then started a second and kept going.
 	* It felt good to start making some more progress, even if the writing quality is low right now, it's more important that I start to think through the different concepts, so that I can start to piece together the information that a beginner is going to need to know
@@ -51,6 +68,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 22 2018 21:24:12
 
+* Day 5
 * 1249 words
 	* Got into talking about my experiences demo'ing bomb dodge, and howimpratnt it is to do usability testing to catch issues before you invest tons of time into features
 * I'm again tired, trying to write at the end of the day because of all the activities
@@ -63,6 +81,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 21 2018 22:41:11
 
+* Day 4
 * 787 words
 * Tired, have a 5K race tomorrow … setting a timer for 5 minutes and then going to bed
 	* Did another 5 minutes … got to 620 … why not type a bit more … =)
@@ -73,6 +92,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 20 2018 22:01:52
 
+* Day 3
 * 798 words - not great writing, but it's a start, and it's getting me to put in time and focus
 	* I need to start writing earlier on the day … the contract work is interrupting my flow, and it's harder than I thought it would be.
 * Spent all day on contract work … behind where I need to be, figuring out how to call Swift code from Objective-C 
@@ -82,7 +102,8 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 19 2018 21:57:50
 
-* Wrote: 869 words 
+* Day 2
+* 869 words 
 * Inspired after watching "Dawn Wall" with Tommy Caldwell who scales the Yosemite "impossible" face called Dawn Wall.
 	* 6 years working on a goal
 		* Spring + Fall spent figuring out the traversals to make one unified climb
@@ -107,6 +128,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## September 18 2018 21:58:07
 
+* Day 1
 * Wrote 804 words for Chapter 1
 	* Starting point, but I'm starting to think that my daily word count is going to be closer to 2,000 words.
 	* I didn't really get into the topic, and my outline doesn't quite flow
