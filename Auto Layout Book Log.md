@@ -10,6 +10,59 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 1 2018 12:51:02
+
+
+* Day 14: Monday
+	* 2285 words in 2nd pomodoro (combined)
+	* 1115 words in 1st Pomodoro (adding vertical constraints)
+	* I've been writing daily for 2 weeks!
+		* Crazy!
+	* Feels good to make progress … over 15,000 words written for the first draft
+	* Goal: 2-3 pomodoros … let's go!
+	* Transcribing notes from the video still … this will probably make up most of the bookΩ
+* Theres' only so much that you can type …
+
+
+
+## September 30 2018 07:36:03
+
+
+* Day 13: Sunday
+	* At Steph's mom's house … hiding in the laundry room writing.
+	* 901 words
+		* Mentally distracted, hard to focus … not enough sleep
+
+## September 29 2018 08:45:31
+
+* Day 12: Saturday
+* 1160 words 
+	* I still haven't described how to add the constraints … everything has been supplemental to the constraint process
+	* We've done the coloring, now we need to talk about tconstraining
+	* Some research into "Reset to Suggested Constraints" not being screen aware (iPhone X is broken constraints)
+		* Easy way to mess everything up!
+	* Found more bugs in Xcode … growing list
+	* Got a little distracted this morning, but we need to spend another session writing
+	* A bit tired today, late night after frisbee … late coffee/kombucha (black tea)
+
+## September 28 2018 10:26:56
+
+* Day 11
+* 3456 words (4 pomodoro's)
+	* Finally dedicated 2 hours to write, instead of my "15 minutes" or "30 minute" sessions … when I have time I can write!
+	* Good content, lots of ideas for workbook supplementals and video supplements
+	* Brought in a reference to dropping support for rotation (new blog post idea) based on ATP #292 with Marco dropping support for iPhone rotation in [Overcast 4.1](https://marco.org/2018/03/13/overcast41)
+* More words written, this chapter is getting long … just to explain how to add the top, bottom, leading, and trailing constraints 
+
+## September 28 2018 07:45:42
+
+* Day 11
+* 1700 words after 2 pomodoros … this is going to be long
+* Added more words … figured out my days were wrong. Not sure how that happened … but it didn't match my calendar.
+* Trying to restructure how I teach this content … based on video, but also based on how to simply show some of the features.
+	* Percentage based sizing as a challenge
+* Show Canvas > Show Layout Rectangles / Show Bounds later … it's not as clear as changing the color of a view
+
 
 ## September 28 2018 07:08:33
 
