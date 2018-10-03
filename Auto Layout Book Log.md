@@ -10,6 +10,16 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 3 2018 07:16:03
+
+* Day 16: Wednesday
+	* 849 words
+	* Investigated some of the behaviors of the constraints when you add and remove them (at the same time versus individually for a label)
+	* Need to investigate intrinsic content size and custom views … I don't believe you can have the same behavior as the UISwitch, but I could be wrong.
+	* Need to talk more about the negative and the positive values of constraints. By default the storyboard will add constraints in such as way that they always default to a positive value (by flipping the relationship)
+		* Need a tutorial + image on how this works, and how to visualize the constraints … because the system fails to work well when you have a UITextField on top of a UIImageView (for styling purposes).
+		* And then it becomes confusing to the user … their first occurrence of a negative constraint. 
+
 ## October 2 2018 12:27:39
 
 
