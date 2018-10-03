@@ -10,6 +10,18 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 2 2018 12:27:39
+
+
+* Day 15: Tuesday (Steph's Birthday)
+	* 1066 words (first pomodoro)
+	* Late start today because I got side tracked with writing an email on iOS jobs
+	* Practiced typing today, I need to formalize what deliberate practice I'm going to work on … and how to measure … I'd like to apply it to Auto Layout, but I also feel like I need to research more deliberate practice techniques
+	* Wrote about 200 words, editing some of yesterday's flow to introduce running the iPhone simulator sooner, and then checking … and then Preview.
+* One thing I notice from typing practice is that it's more fluid and easier to type without as many errors … feels more natural. I should keep practicing, but I should move practice to a low energy time of day, rather than the morning. 
+* Xcode 10.1 doesn't fix the issue that I thought it mentioned with the Control Drag, I don't see any difference in behavior from Xcode 10 … and it doesn't feel different.
+	* The Diagonal drag is still the preference when you're designing user interfaces.
+
 ## October 1 2018 12:51:02
 
 
