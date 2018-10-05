@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 5 2018 07:30:05
+
+* Day 18: Friday
+	* 1148 words
+		* Wrote about editing constraints, and a  new trick I learned using the ALT key for views on top of each other
+		* Took some extra time to figure out where I left off … since there's some sections I wanted to revise, and tangents that made it hard to just pickup
+		* Moving some sections down to work on the next time.
+
 ## October 4 2018 07:06:43
 
 * Day 17: Thursday
