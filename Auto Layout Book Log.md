@@ -10,6 +10,24 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 4 2018 07:06:43
+
+* Day 17: Thursday
+	* 1314 words 
+		* Great start this morning, trying to finish up the UI, and I dig into more gems
+		* There's a lot of teaching moments in this UI, which I think it's going to make a lot more sense to readers
+		* Learning why some things snap, and then how to resolve them is really important
+		* Learning about the decisions you need to make is also important
+	* 1591 words (combined)
+		* Making edits, and researching how to properly add these constraints … turns out if you want it to match the size you just add all constraints, and after you add all 4 dimensions (if the layout is defined for the interface, it'll snap to fit)
+		* Now if you don't want that behavior, you can hold ALT while holding shift (after a diagonal drag) and you can add all the constraints using the current layout positions!
+			* NEAT … otherwise I was going to file a bug, because it's annoying that sometimes views will take on the actual value versus the canvas value
+				* There's two thoughts here … one, you're trying to make a non-matching UI go where you want it to go
+				* Two, you're trying to constrain a layout in place, and to do that you want to use the current canvas values.
+				* For the most part when you add a single constraint, it wion't try to update your constraints, but when you add multiple it decides to behave differently
+	* More research (3rd + 4th pomodoro's into XML parsing Storyboards)
+		* FUTURE: Rename all the identifier programmatically to help diagnose layout problems
+	* Debugging Auto Layout constraints … setting breakpoint doesn't give you enough steps, needs a better guide
 ## October 3 2018 07:16:03
 
 * Day 16: Wednesday
