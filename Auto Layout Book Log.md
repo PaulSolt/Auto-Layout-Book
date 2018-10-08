@@ -10,6 +10,17 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 8 2018 08:01:00
+
+* Day 21: Monday
+	* 1760 words (2nd pomodoro)
+		* Added more details, reworked some of the example by expelling it again
+		* Tested out adding the constraints to make sure I'm giving the right advice.
+	* 991 words (1st pomodoro) 
+		* Went to bed at 11am, got up at 640am (more sleep!)
+		* Feeling like I have more energy, I need to get to bed on time.
+	* 
+
 ## October 7 2018 08:58:42
 
 * Day 20: Sunday
