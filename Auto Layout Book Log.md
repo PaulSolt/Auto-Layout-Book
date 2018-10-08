@@ -10,10 +10,25 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 7 2018 08:58:42
+
+* Day 20: Sunday
+	* 1191 words
+
+## October 6 2018 15:43:21
+
+* Day 19: Saturday 
+	* 1066 words
+		* A bit tired after a long 8 mile run at a faster pace than normal (9:30 pace) … normally I do 10:30 or 12:00 for the 8+ mile runs
+	* Getting into breaking apart an Auto Layout error message
+		* Thinking about how a tool like [WTFAutoLayout](https://github.com/johnpatrickmorgan/wtfautolayout) might work in conjunction with a UIStoryboard file … to pull in names of UI elements, which might help visualize what's right/wrong
+		* [Sparse](https://github.com/johnpatrickmorgan/Sparse) is a simple parser-combinator library written in Swift.
+
+
 ## October 5 2018 07:30:05
 
 * Day 18: Friday
-	* 1148 words
+	* 1099 words
 		* Wrote about editing constraints, and a  new trick I learned using the ALT key for views on top of each other
 		* Took some extra time to figure out where I left off … since there's some sections I wanted to revise, and tangents that made it hard to just pickup
 		* Moving some sections down to work on the next time.
