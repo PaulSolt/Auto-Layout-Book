@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 9 2018 15:25:12
+
+* Day 22: Tuesday
+	* 1153 words (very technical instruction for adding constraints to labels)
+	* Slow start today, got distracted writing email for audience, took away focus
+		* Sent me down tangents for Jekyll blog hosting with Github like Mattt at <NSHipster.com>
+	* If I have time, I'll try and write the remaining words tonight … need to get some progress … on being outside in sun, and then some Bluetooth / Unit tests!
+
 ## October 8 2018 08:01:00
 
 * Day 21: Monday
@@ -19,7 +27,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* 991 words (1st pomodoro) 
 		* Went to bed at 11am, got up at 640am (more sleep!)
 		* Feeling like I have more energy, I need to get to bed on time.
-	* 
+	* Progress Summary
+		* Over the past 7 days (October 1st - October 7th) I wrote 8,852 words, which was under my target of 10,000 words.
+		* I need to be writing 1400 - 1500 words per day to keep that target
+		* Current total: 26,953  words
+			* Chapter 1: 7,077 
+			* Chapter 2: 19,876 
+		* Chapter 2 may get split into parts, to make it more concise, there's a lot of teaching moments, but we also need a "speed coding" demo of adding constraints, instead of having this long drawn out instructions
+		* 34 minutes to read 7000 words … 
 
 ## October 7 2018 08:58:42
 
