@@ -10,6 +10,13 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 10 2018 07:27:06
+
+* Day 23: Wednesday
+	* 921 words (1st pomodoro)
+	* I'm still not feeling like I've written enough for the book, there's so much to talk about, but maybe this book should be shorter and more approachable 
+	* Should I split? I just need to keep writing … it might be more than 30 days of writing …
+
 ## October 9 2018 15:25:12
 
 * Day 22: Tuesday
