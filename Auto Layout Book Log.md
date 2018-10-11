@@ -10,6 +10,23 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 11 2018 10:40:11
+
+
+* Day 24: Thursday
+	* 1026 words (2nd Pomodoro)
+		* Technical steps to make these adjustments on the Safe Areas
+			* I always find this part a little hard to understand, and I feel like there's more to discuss, but I'm not sure exactly what that is
+		* TODO: We can add some post-processing scripts to add insertion points like `[[2nd chapter]]` as replacement for %%Auto Layout 101 Chapter%%, or some kind of references (Does some piece of software exist?)
+			* What is ObjC using?
+			* What is NSHipster using?
+			* Would this be Liquid?
+	* 422 words (1st pomodoro)
+		* Lots of research on the Safe Area view challenge
+	* Driving home to PA (6 hours … in rain)
+	* Writing while Steph drives … got to get my words in, I spent this morning working on TDD with mocking URLSession
+	* 
+
 ## October 10 2018 07:27:06
 
 * Day 23: Wednesday
