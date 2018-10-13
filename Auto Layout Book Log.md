@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 12 2018 22:35:12
+
+* Day 25: Friday
+	* 867 words
+		* I spent 15 minutes writing, late, time for bed.
+		* I need to write first thing in the morning, it's really hard, but I slept in , and never got time to writing with all the family things going on here in PA.
+	* Long day with family, visited my Grandma and made her smile and laugh (she has dementia)
+
 ## October 11 2018 10:40:11
 
 
