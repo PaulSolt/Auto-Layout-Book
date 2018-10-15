@@ -15,7 +15,13 @@ October 15 2018 11:00:33
 ## October 15 2018 11:00:36
 
 * Day 28: Monday
-	* 1773 words
+	* Stats Update
+		* 3 chapters
+			* 7,077 "Chapter 1 - Auto Layout 101.md"
+			* 25,536 "Chapter 2 - Test Drive Auto Layout.md"
+			* 1,952 "Chapter 3 - Auto Layout Fundamentals.md"
+		* **34,565 words**
+	* 1773 words (1st pomodoro after extensive mind map + outline research)
 		* One pomodoro writing and brain dump around size classes, designing for one device, layout for one device, and creative selection
 		* Keep it simple explored
 		* I spent a lot of time doing research this morning as I worked on fleshing out the updated Outline for Chapter 3, it feels like a lot of topics that I need to cram in one chapter, and I'm running out of days for this 30 day challenge. I really need to write, more, but I have a contract job to also work on
