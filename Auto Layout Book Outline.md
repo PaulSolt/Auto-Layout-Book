@@ -79,6 +79,8 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 ## Chapter 3: Auto Layout Fundamentals
 
+
+
 1. Layout for one device
 	2. Keep it simple, get something working
 	3. Design for iPhone 8 (or iPhone X)
@@ -104,6 +106,12 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	13. Multiplier
 	14. Priority 
 	14. Multiple constraints 
+	15. Internal constraints
+		16. Intrinsic Content Size (Label is 251 content hugging)
+		16. Content Hugging Priority
+		17. Content Stretching Priority 
+		18. Stack views
+			19. Spacing constant set to … default canvas … makes alignment confusing …
 15. Colors of Auto Layout
 10. 7 Ways to add constraints
 4. Size Classes + Rotation
@@ -141,6 +149,7 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	17. Stretchable images
 	18. Template images?
 16. Hugging + Stretching Priorities 
+17. Placeholder constraints
 
 
 ## Chapter 4: Layout

@@ -15,6 +15,11 @@ October 15 2018 11:00:33
 ## October 15 2018 11:00:36
 
 * Day 28: Monday
+	* 1773 words
+		* One pomodoro writing and brain dump around size classes, designing for one device, layout for one device, and creative selection
+		* Keep it simple explored
+		* I spent a lot of time doing research this morning as I worked on fleshing out the updated Outline for Chapter 3, it feels like a lot of topics that I need to cram in one chapter, and I'm running out of days for this 30 day challenge. I really need to write, more, but I have a contract job to also work on
+		* It's hard to work on more than 1 thing at a time! Especially when you write daily
 	* Back is doing better, but not great, not flexible today, taking regular breaks with Super Easy Timer
 	* Created the Chapter 3 mind map
 	* May want to split book into more books?
