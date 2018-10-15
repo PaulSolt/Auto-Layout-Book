@@ -70,12 +70,12 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	14. Content mode
 	15. Clipping
 	16. Stretching
-18. Challenge 1: Do it again from scratch
-19. Challenge 1a: connect the UI
-19. Challenge 2: add iPhone X support (Safe Areas)
-20. Challenge 3: Reset to suggested constraints (does it work?)
-4. Add iPhone 8 Plus support (larger … button stretching)
-5. Add iPhone SE support (smaller buttons 44pt)
+18. TODO: Challenge 1: Do it again from scratch
+19. MOVE: Challenge 1a: connect the UI
+19. DONE: Challenge 2: add iPhone X support (Safe Areas)
+20. TODO: Challenge 3: Reset to suggested constraints (does it work?)
+4. DONE: Add iPhone 8 Plus support (larger … button stretching)
+5. TODO: Add iPhone SE support (smaller buttons 44pt?)
 
 ## Chapter 3: Auto Layout Fundamentals
 
@@ -83,19 +83,28 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	2. Keep it simple, get something working
 	3. Design for iPhone 8 (or iPhone X)
 	4. Add constraints 
-	5. Tweak for other screen sizes (Repeat)
+	5. Iterate
+		6. Tweak for other screen sizes (Repeat)
 2. Types of layout
 	7. Percentage-based layouts
 	8. Fixed layouts
 	9. Relative layouts
+	10. "Responsive" -  might be a bad term to use
+	11. **Resizable Layouts**
 10. Building blocks
 	11. Structure views
 	12. Accessory views
+	13. Regions
+		14. Resizable Regions
+		15. Fixed Regions
+		16. 1 Resizable region per axis
+		17. Multiple resizable regions requires a relationship (1:2 constraint)
 13. Constraint 101
 	14. Anatomy of a constraint
 	13. Multiplier
 	14. Priority 
 	14. Multiple constraints 
+15. Colors of Auto Layout
 10. 7 Ways to add constraints
 4. Size Classes + Rotation
 	5. We won't be using in this beginner's book

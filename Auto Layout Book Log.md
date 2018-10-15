@@ -10,6 +10,36 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+October 15 2018 11:00:33
+
+## October 15 2018 11:00:36
+
+* Day 28: Monday
+	* Back is doing better, but not great, not flexible today, taking regular breaks with Super Easy Timer
+	* Created the Chapter 3 mind map
+	* May want to split book into more books?
+	* Depending on how long this Chapter 2 or 3 becomes … we might want to restructure to make it easier to get started, but I feel that we still need to cover many of these topics (including debugging)
+	* Responsive vs. adaptive vs. fluid vs. resizable
+## October 14 2018 11:36:41
+
+* Day 27: Sunday
+	* 762 words (1st pomodoro in car)
+	* 
+	* Driving back from PA to Rochester
+	* Hurt my back moving a bed, and I have hardly been able to move
+	* Re-injured my back from when I hurt it snow shoveling heavy snow in March 2018 (hit curb with shovel)
+	* Didn't sleep well, but trying to sit good in the car with some back support
+## October 13 2018 07:31:29
+
+* Day 26: Saturday
+	* 507 words (1st pomodoro)
+		* Spent a lot of time researching Auto Layout Demystified. 
+			* I don't really like the examples, as they don't provide enough of a guide through the materials.
+			* I'm trying to figure out if my book content is too long, or if it's a good length ~30,000+ words
+		* Researching how to do percentage based layouts
+			* 0.25 works, .25 doesn't when editing layout multipliers  .
+		* BUG: Ratio of `.1` resets to 1
+
 ## October 12 2018 22:35:12
 
 * Day 25: Friday
