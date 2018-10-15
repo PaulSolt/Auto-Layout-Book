@@ -21,6 +21,9 @@ October 15 2018 11:00:33
 			* 25,536 "Chapter 2 - Test Drive Auto Layout.md"
 			* 1,952 "Chapter 3 - Auto Layout Fundamentals.md"
 		* **34,565 words**
+	* Command: 
+		* `wc -w C*.md`
+		* Word count of all the markdown files starting with "C"
 	* 1773 words (1st pomodoro after extensive mind map + outline research)
 		* One pomodoro writing and brain dump around size classes, designing for one device, layout for one device, and creative selection
 		* Keep it simple explored
