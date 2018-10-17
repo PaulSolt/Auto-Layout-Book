@@ -10,7 +10,13 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
-October 15 2018 11:00:33
+
+## October 16 2018 21:48:34
+
+
+* Day 29: Tuesday
+	* 780 words (10-15 minutes)
+	* Late start today ... been trying to finish contract work, taking time to research and implement with TDD + bluetooth
 
 ## October 15 2018 11:00:36
 
