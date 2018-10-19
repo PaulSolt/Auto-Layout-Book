@@ -10,6 +10,33 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 18 2018 20:33:15
+
+
+* Day 31: Thursday
+	* 896 words (10 minutes)
+		* Friends came in before I could finisher earlier tonight, so I wrote the last 500 words before getting in bed.
+	* Spent all day working on contract work, friends coming in ... now
+	* 400 words (10 minutes)
+## October 17 2018 21:39:01
+
+* Day 30: Wednesday
+	* Total: 36,373 words
+		* Chapter 1 - Auto Layout 101
+			* 7,077 words
+		* Chapter 2 - Test Drive Auto Layout
+			* 25,536 words
+		* Chapter 3 - Auto Layout Fundamentals
+			* 3,760  words
+	* 1069 words today (1 pomodoro)
+		* Talked about demo + iterations (Creative Selection book by Ken Kocienda)
+		* Wrote about styles of apps and content flows
+		* Started to write about the 5 types of app layouts
+	* 30 days in a Row of at least 750 words!
+		* With the contract work and research on Swift, I haven't had as much time as I'd like to work on the book
+		* I spent a lot more time working on the outline, but I havne't even written about half the things in the outline
+		* Much of my time was spent on the beginning sections, which makes me wonder ... how should I proceed?
+		* More writing?
 
 ## October 16 2018 21:48:34
 
