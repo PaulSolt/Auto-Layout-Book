@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 19 2018 23:20:20
+
+
+* Day 32: Friday
+	* 1091 words (brain dump before bed)
+	* Late night, Steph's birthday cooking workshop + friends in town for Brick CIty Weekend
+	* Gabe cooked dinner for Steph
+
 ## October 18 2018 20:33:15
 
 
