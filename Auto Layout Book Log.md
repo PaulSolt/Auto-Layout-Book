@@ -10,6 +10,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+
+## October 20 2018 22:53:19
+
+
+* DAY 33: Saturday (Brick City Weekend)
+	* 787 words (10 min)
+	* Family and friends visiting, lots of walking on campus, not really any time to write.
+
 ## October 19 2018 23:20:20
 
 
