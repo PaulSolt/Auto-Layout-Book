@@ -11,6 +11,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * Just get words down, thoughts down, refine it later
 
 
+## October 21 2018 23:17:31
+
+* Day 34: Sunday (Brick City Weekend)
+	* 852 words (15 minutes)
+	* Another long day, tons of activities ... late night writing.
+	* Tomorrow I plan to get writing sooner, since this week I want to make sure that i"m making progress towards launching this book.
+	* Writing earlier is very easy for getting things done, but I overslept because I didn't sleep well the night before due to back pain.
+	
 ## October 20 2018 22:53:19
 
 
