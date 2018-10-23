@@ -10,6 +10,15 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 22 2018 15:25:38
+
+
+* Day 35: Monday 
+	* Started today looking at the chapter outline and trying to make some decisions on the amount of content.
+	* I may need to extend release date, if I'm planning to market the book, I don't think I have enough time schedule to finish content, edit, and promote
+	* Creating the outline took more time than I expected, and I'm still not happy with it, because it doesn't cover everything that I want, which is why this should be a series of books.
+	* Currently I'm feeling pulled into too many directions with the contract work, meetings, visitors, and book
+	* I need to simplify, and focus, make Monday's book day, and Tuesday's contract day, that way I can better focus
 
 ## October 21 2018 23:17:31
 
