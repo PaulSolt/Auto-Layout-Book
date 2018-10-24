@@ -10,6 +10,17 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+
+## October 23 2018 12:55:35
+
+* Day 36: Tuesday
+	* 1865 words (3 pomodoro's)
+	* Added content on working with Stack Views (multiple methods)
+	* Added post on content on colors + images from blog
+	* Exploring examples with labels + content hugging/stretching
+	* Wanted to write more, but back pain and constant long stretch breaks killed my energy after about 3
+	* Found Keith's Auto Layout book launched 
+
 ## October 22 2018 15:25:38
 
 
