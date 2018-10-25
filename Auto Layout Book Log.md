@@ -10,6 +10,24 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 24 2018 08:19:44
+
+* Day 37: Wednesday
+	* Starting after 8am, had a lot of stretches and a super tight knot this morning
+	* 4,595 words (6th pomodoro) with exercises for keyboard shortcuts and selection
+		* Tons of progress today after getting more sleep
+		* I tried to move around more, and new positions so my back could relax without locking up as much
+		* Tweaking and expanding upon my article for ways to add layout constraints ... got me going on additional navigation help in Storyboard
+	* 3,034 words (4th pomodoro)
+	* 971 words (1st pomodoro) on skipping rotation support
+	* Questions
+		* Should it be "Right-click" "right click" `right click` or `Right Click`?
+		* Should I always use `UIButton` when I say button?
+			* I should match this for all UIControls and UIViews
+		* Pre-release the 7 ways to add constraints + clicking on the storyboard canvas
+		* Should it be "Safe Area" or Safe Area or `Safe Area`
+			* Where do I draw the line between code, proper name, and concept?
+	* Apparently a leading constraint + center horizontally constraint is enough to make the UI fit edge to edge, but I still prefer having a leading and trailing constraint.
 
 ## October 23 2018 12:55:35
 

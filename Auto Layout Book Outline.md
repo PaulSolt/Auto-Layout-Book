@@ -113,7 +113,6 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 		18. Stack views
 			19. Spacing constant set to … default canvas … makes alignment confusing …
 15. Colors of Auto Layout
-10. 7 Ways to add constraints
 4. Size Classes + Rotation
 	5. We won't be using in this beginner's book
 	6. Many apps do not support rotation (Facebook or Instagram) 
@@ -121,7 +120,8 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	8. Simplify
 	7. iPad vs. iPhone
 	8. iPad Splitview
-15. Single screen vs. scrollable screen
+15. 7 Ways to add constraints
+16. Single screen vs. scrollable screen
 	16. Different design considerations with layout
 	17. Scrollable interface for super large fonts (edge case and more work)
 18. Intrinsic Content Size (other section?)
