@@ -10,6 +10,41 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 25 2018 07:17:37
+
+* Day 38: Thursday
+	* 1107 words
+	* Tons of research and a coulbe of Apple bugs in Xcode slowed progress ... trying to figure out best practice for baselines and alignment with the Pin Menu ... applying via exercises
+	* Idea:
+		* Write a script to search for all keywords and link to documentation
+			* Can I search documentation based on keyword? easy link creation?
+		* Write a script to make all instances of UILabel become `UILabel`
+	* Question: Is it UILabels or UILabel's in the sentence: "8. Select the next two UILabels and UITextFields"?
+		* and how would that work with linking to the documentation?
+	* QUESTION: When should I use "UIButton" vs. button ... or label instead of "UILabel" or  image instead of UIImageView, or image view?
+	* QUESTION: Should I use "Quotes" for Notes, or do I need some other kind of Markup for the book?
+		* Mattt using a "liquid" %%info%% tag on NSHipster
+	* Playing with size and height for a UITextField + UILabel alignment
+		* QUESTION: Which alignment line should I use?
+			* What's the difference?
+		* TODO: Get the reader to think about bigger elements as "structural"
+	* QUESTION: Why does the alignment in a UITextField seem wrong?
+	* TIP: NEVER USE Reset to suggested constraints in practice, it's not multiple device aware, and adds constraints that do not work!
+
+XCODE BUG: Reset to Recommended Constraints makes constraints that break on multiple devices, it's not adding "good" and "safe" constraints
+
+XCODE BUG: UITextField text position clips and is offset from actual position on iPhone Simulator/Device
+
+XCODE BUG: Baseline between TextField + Label, Top constraint set, and then Baseline set, Xcode states wrong thing "Missing Constraints: Need constraints for: Y Position"  .... but the solution is to remove the top constraint, because it conflicts with the baseline to the UITextField.
+
+QUESTION: Shoudl I center align a Label and a TextField or should I baseline align?
+
+October 25 2018 10:26:31
+
+FAIL: Align tool to add constraints is causing duplicate constraints being added to the last in the row. ... had a duplicate view stacked on top of each toher ... that was confusing two "Last Name" labels
+
+
+
 ## October 24 2018 08:19:44
 
 * Day 37: Wednesday
