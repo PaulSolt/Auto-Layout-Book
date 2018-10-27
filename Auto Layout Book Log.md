@@ -10,6 +10,28 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 26 2018 08:16:55
+
+* Day 39: Friday
+	* 1944 words
+	* Researching compression reistance and hugging
+	* Ways to define width
+		* Equal width to another label
+		* Leading and Trailing edges
+		* Equal Leading edge
+		* Equal trailing edge
+	* Constraints are "associative?"
+	* You don't need every combination, you just need to express a rule once, no reason to have duplicate rules that mean the same thing
+	* Always try and simplify the rules ot the bare miniumu
+		* Less errors
+		* Easier to debug when issues arise
+		* Less work, faster to design and layout
+	* The bigger view becomes the Stuctural view
+		* UITextField is taller than a default font UILabel
+	* October 26 2018 15:32:23
+		* Block UI
+		* Resize to fit (makes constraints easier to add)
+
 ## October 25 2018 07:17:37
 
 * Day 38: Thursday
