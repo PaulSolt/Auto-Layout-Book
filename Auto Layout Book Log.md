@@ -10,6 +10,19 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+
+## October 27 2018 09:23:19
+
+
+* Day 40: Saturday
+	* 776 words (1st pomodoro)
+	* Started at 9:10am today
+	* XCODE BUG: Constraint moves around the screen to top or bottom of the UI when trying to select it (edit second click misses)
+	* "Align tool" for "Align Menu"
+	* "constraint issue indicator" or "Auto Layout issue details pane"
+	* Read the [Xcode Help Guide](https://help.apple.com/xcode/mac/10.0/#/devc8c2a6be1)
+
+
 ## October 26 2018 08:16:55
 
 * Day 39: Friday
