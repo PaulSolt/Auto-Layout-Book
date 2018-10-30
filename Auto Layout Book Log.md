@@ -10,9 +10,55 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 30 2018 12:02:26
+
+
+* Day 43
+	* Late start to writing due to sending out an email for my weekly email 
+	* Played with iTerm2
+	* Setup the iTerm2 to drop down from the top
+	* Adding commands to my bash profile to give me word counts, so I can just type a command "words" to get stats on words changed, and total counts
+
+			bash-3.2$ words
+			    Words added: 179
+			    Words removed:  46
+			    Word diff:  133
+			
+			    7077 Chapter 1 - Auto Layout 101.md
+			   25536 Chapter 2 - Test Drive Auto Layout.md
+			   19926 Chapter 3 - Auto Layout Fundamentals.md
+			   52539 total
+
+	* Now I can see what kind of work changes I've done from the last commit
+	* Editing is slower, so being stuck in editing due ot the Pin Tool exercise has been blocking progress … I'm going to skip rest for now, and keep moving to the rest of the outline
+
+## October 29 2018 10:54:18
+
+Got stuck editing and changing text … wordcount isn't accurate since I removed text.
+
+* Day 42: Monday
+	* Wrote 179 words
+	* Edited words in a complex area for adding constraints in Pin Tool
+	* Didn't do as much writing because I've been stuck in this "editing" section and I need to be writing.
+	* `wc -w C*.md` = wordcount for all "Chapter <numbers titles>.md"
+
+   52,411 total
+
+* Tomorrow: Go over how to update the layout from the simple method to use the baseline alignment after the majority of the constriants were set
+* Go over how you can elverage stack views for the same layout
+
+## October 28 2018 08:22:11
+
+* Day 41: Sunday
+	* ~750 words (lots of edits around the bottom sections)
+		* Hard to trakc, need to track total WC before/after starting, otherwise it's not linear right now.
+	* 3254 to bottom
+	* Question: "`Right-click` + drag" technique … how do I format Right-click and drag? Is this the official name? docs talk about Control Click … but I feel that's not what the beginner is going to be using. Right-click is more descriptive, and there are multiple ways to click… 
+	* Question: which tweet did I write after WWDC 2018? About Xcode 10, apparently it's hanging on the wall at Apple in the Swift hallway.
+	* Is it "Storyboard" or "storyboard" or storyboard? or .storyboard?
+	* 
 
 ## October 27 2018 09:23:19
-
 
 * Day 40: Saturday
 	* 776 words (1st pomodoro)
