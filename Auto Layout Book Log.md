@@ -10,6 +10,39 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+## October 31 2018 07:35:43
+
+* Day 44: Wednesday
+	* 3,593 words today, slow start, but I took off when I started a new section of the book. 
+		* I'll need to go back and refactor a bit, but it's getting the core concepts down, and the headings which will help me organize later.
+		* 1121 words (1st pomodoro at 11:00:48)
+		* 1700 words (2nd pomodoro at 11:53:23)
+		* 1951 words (3rd pomodoro at 12:00:00)
+			* Researched preview bugs
+		* 3,452 words (4th pomodoro at 13:15:49)
+	* Bugs encountered
+		* XCODE BUG: Multiple Preview Devices Slows Down Storyboard constraints dramatically
+		* XCODE BUG: Cannot zoom into/out of a Storyboard file for Mac apps
+		* XCODE BUG: Changing fonts on Accessiblity Inspector in iPhone Simulator Messages causes it to fail to render correctly when toggling between… it squashes messages.
+		* 
+	* Side tracked today 7am-10am … even after setting up my desk, coffee, and breakfast … Mac update sent me down the rabbit hole (again!)
+		* I need to **disable WIFI/internet** when I write in the morning, it's too distracting when an update automatically starts.
+		* I was a bit side tracked when Xcode automatically updated … and wanted to see the changes
+			*  … that took me to the App Store, and then I read some bad/good reviews … so I decicded to write my Xcode 10 review
+			* That lead to me posting a new blog post on Xcode 10 being the gold standard …
+			* I probalby need to do a 10-20 things I love about Xcode 10 post with Gifs + Videos
+	* Back is doing much better, I can sit for way longer, and move more!
+	* Research
+		* Safe Areas
+			* View Controllers
+			* Device bounds
+			* Changing values in your own interfaces
+		* Margins
+			* Margins are the original boundary areas that came before Safe Areas
+		* Guides
+			* QUESTION: ARe these Guides entirely visual, or are they related to margins?
+			* 
+
 ## October 30 2018 12:02:26
 
 * Day 43: Tuesday

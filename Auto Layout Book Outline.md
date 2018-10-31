@@ -154,19 +154,12 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 ## Chapter 4B: Storyboard Fundamentals
 
-
 1. Selection
 2. Editing
 3. Navigation
 4. Error panels
 
-## Table View Introduction
-
-
-Dynamic content requries it, and almost every app uses table views
-
 ## Chapter 4: Layout
-
 
 1. Layout the Tip Calculator App
 2. Layout the Instagram Story Camera
@@ -181,6 +174,10 @@ Dynamic content requries it, and almost every app uses table views
 	7. Simplifying constraints
 
 ## Chapter 5: Thinking with Auto Layout
+
+1. Table View Introduction
+2. Dynamic content requries it, and almost every app uses table views
+3. App's decomposed
 
 
 ## 30-Day Auto Layout Challenge
