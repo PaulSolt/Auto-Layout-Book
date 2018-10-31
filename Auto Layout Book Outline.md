@@ -121,11 +121,11 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	7. iPad vs. iPhone
 	8. iPad Splitview
 15. 7 Ways to add constraints
-16. Single screen vs. scrollable screen
-	16. Different design considerations with layout
-	17. Scrollable interface for super large fonts (edge case and more work)
 18. Intrinsic Content Size (other section?)
 	19. Brief overview
+19. Single screen vs. scrollable screen
+	16. Different design considerations with layout
+	17. Scrollable interface for super large fonts (edge case and more work)
 20. Data driven UI vs. static content
 21. Margins
 22. Safe areas
@@ -151,6 +151,19 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 16. Hugging + Stretching Priorities 
 17. Placeholder constraints
 
+
+## Chapter 4B: Storyboard Fundamentals
+
+
+1. Selection
+2. Editing
+3. Navigation
+4. Error panels
+
+## Table View Introduction
+
+
+Dynamic content requries it, and almost every app uses table views
 
 ## Chapter 4: Layout
 

@@ -12,25 +12,32 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## October 30 2018 12:02:26
 
-
-* Day 43
+* Day 43: Tuesday
+* 890 words today
+* Spent a lot of time writing some new scripts to help track word count and edits
+   *  7,077 Chapter 1 - Auto Layout 101.md
+   * 25,536 Chapter 2 - Test Drive Auto Layout.md
+   * 20,998 Chapter 3 - Auto Layout Fundamentals.md
+   * **53,611 total**
 	* Late start to writing due to sending out an email for my weekly email 
 	* Played with iTerm2
 	* Setup the iTerm2 to drop down from the top
 	* Adding commands to my bash profile to give me word counts, so I can just type a command "words" to get stats on words changed, and total counts
 
-			bash-3.2$ words
-			    Words added: 179
-			    Words removed:  46
-			    Word diff:  133
+			$ words
+			    Words added: 890
+			    Words removed: 0
+			    Word diff: 890
 			
 			    7077 Chapter 1 - Auto Layout 101.md
 			   25536 Chapter 2 - Test Drive Auto Layout.md
-			   19926 Chapter 3 - Auto Layout Fundamentals.md
-			   52539 total
+			   20998 Chapter 3 - Auto Layout Fundamentals.md
+			   53611 total
+
 
 	* Now I can see what kind of work changes I've done from the last commit
 	* Editing is slower, so being stuck in editing due ot the Pin Tool exercise has been blocking progress … I'm going to skip rest for now, and keep moving to the rest of the outline
+	* Updated to use iTerm2 from Terminal, playing with settings to better configure for my usage
 
 ## October 29 2018 10:54:18
 
