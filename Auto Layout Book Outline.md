@@ -149,7 +149,8 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	17. Stretchable images
 	18. Template images?
 16. Hugging + Stretching Priorities 
-17. Placeholder constraints
+
+
 
 
 ## Chapter 4B: Storyboard Fundamentals
@@ -192,3 +193,9 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 2. Fixing 9 common beginner mistakes  
 3. Bad advice: When to ignore Xcode errors and warnings
 4. Daily Log (Markdown)
+5. Auto Layout table view cells
+
+
+
+FUTURE
+17. Placeholder constraints??? When?

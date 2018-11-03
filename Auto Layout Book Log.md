@@ -10,6 +10,31 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * I can do … 800 words in 12 minutes … what can I do in 90 minutes?
 * Just get words down, thoughts down, refine it later
 
+
+* Stop Writing at 50 days, need to start editing … I'm going to write forever if I let it drag too long, let's finish this first writing phase in 50 days (20 days over my timeline, yikes!)
+
+## November 2 2018 22:34:47
+
+
+* Day 46: Friday
+	* 888 words
+	* Researched the buggyness of TalbeView Cells in Storyboard and .xib files
+		* Super buggy behavior when moving around constraints 
+		* Changing size classes is a world of pain
+
+## November 1 2018 07:33:42
+
+
+* Day 45: Thursday
+	* 466 words (1st pomodoro)
+	* 1308 words (3rd pomodoro)
+		* Spent time researching accessibility
+		* Spent a lot of time opening/closing accessilbity inspector, bugs galore =/
+	* 
+	* Bugs
+		* ## BUG: Accessiblity Inspector is Very Buggy
+		* 
+
 ## October 31 2018 07:35:43
 
 * Day 44: Wednesday
