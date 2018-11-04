@@ -13,6 +13,16 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * Stop Writing at 50 days, need to start editing … I'm going to write forever if I let it drag too long, let's finish this first writing phase in 50 days (20 days over my timeline, yikes!)
 
+## November 3 2018 11:56:40
+
+
+* Day 47: Saturday
+	* 1098 words 
+	* A bit of a late start today, but I'm excited to be nearly done, though I need to cover TableView Cells and Layout, since those are two keey concepts in any iOS App
+	* Question: Asset Catalog vs. asset catalog vs. "Asset Catalog" ? which one?
+	* XCODE BUG: Deleting Asset Catalog cannot be undone
+		* There should be an undo for this project change
+
 ## November 2 2018 22:34:47
 
 
