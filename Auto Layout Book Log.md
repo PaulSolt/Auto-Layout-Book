@@ -13,6 +13,21 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * Stop Writing at 50 days, need to start editing … I'm going to write forever if I let it drag too long, let's finish this first writing phase in 50 days (20 days over my timeline, yikes!)
 
+## November 4 2018 11:07:09
+
+
+* Day 48: Sunday
+* 1609 words
+Table View Notes
+* SF Font is different in iOS than design tools
+* Use the Sketch plugin to help get alignment better
+* Heights/widths of fonts doesn't seem to match exactly, so you'll need to design interfaces accordingly
+	* Spacing and relative sizes is the way to go, let fonts self size themselves
+* Static table views only work with the UITableViewController
+
+* Use the margins that Xcode provides
+* There's a bug when switching Size Classes, select a view, update to fit content size, update frame to resize to fit in new screen bounds
+
 ## November 3 2018 11:56:40
 
 
