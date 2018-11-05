@@ -13,12 +13,34 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * Stop Writing at 50 days, need to start editing … I'm going to write forever if I let it drag too long, let's finish this first writing phase in 50 days (20 days over my timeline, yikes!)
 
+
+
+* Next time: Finish Table View, Layout, and Troubleshooting sections
+
+
+## November 5 2018 11:05:40
+
+* Day 49: Monday
+	* 3,910 words, 5 pomodoros after a late start
+	* Writing about why layout is hard
+	* 1st Pomodoro: I realized that I didn't do a mindmap for the new chapter
+	* Talked through the chapter mindmap and ideas
+	* 2nd Pomodoro: Updated the Outline for the chapter
+	* [[DUPLICATE: my Xcode Bug: Double Click Randomly Zooms in/out of UI]]])
+	* ([[Duplicate my Xcode BUG: No zoom in macOS Storyboard files]]).
+	* [[TODO: Should I use the term image, UIImageView?]]
+
+
 ## November 4 2018 11:07:09
 
 
 * Day 48: Sunday
 * 1609 words
-Table View Notes
+
+### Table View Notes
+* Resources
+	* <https://medium.com/@JiriTrecak/as-for-the-gradients-there-actually-is-a-magic-formula-89055944b52a>
+	* <https://github.com/nathangitter/sketch-vs-ios>
 * SF Font is different in iOS than design tools
 * Use the Sketch plugin to help get alignment better
 * Heights/widths of fonts doesn't seem to match exactly, so you'll need to design interfaces accordingly

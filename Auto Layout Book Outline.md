@@ -153,7 +153,7 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 
 
-## Chapter 4B: Storyboard Fundamentals
+## Chapter 4B: Storyboard Fundamentals (TODO: Did I do this?)
 
 1. Selection
 2. Editing
@@ -168,17 +168,107 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 4. Workflow
 	5. Layout for one iPhone
 	5. Constraint for one iPhone
-	6. Tweet for every iPhone
+	6. Tweak for every iPhone
 	7. Version control + saving / backups
 5. Limitations of Storyboard files
 6. Custom Views + composition
 	7. Simplifying constraints
 
+## Layout NEW
+
+1. Layout
+2. Design for One Device
+3. Layout for One Device
+4. Don't Design in Xcode
+	5. Use Sketch for easier zoom in/out, number tweaking
+	6. Layers are backwards order
+	7. Layer control is harder
+6. Adapt Designs to Xcode
+	7. Why it's Different in Xcode
+		8. San Fransisco Font
+		9. Margins on Table View Cells change depending on device or orientation
+		10. Gradients rendered different than design tools
+7. Layout Building Blocks
+	8. Structural views
+	8. Centered Content Containers
+		10. Single Element 
+	9. Equal Width Buttons and Spacing
+		10. Spacer Views
+	12. Refactor Layouts for Usage
+		13. Get an initial design
+		14. Refactor the layout to support animations, experiences, or dynamic content
+	16. Margins and Safe Areas
+		17. Standard widths on iOS 12
+			18. Equal Width Buttons
+			19. Edges: 16 points
+			19. Internal spacing: 8 points
+			20. Sometimes: 0 points
+	23. Layering Content
+		24. UILabel on top of UIImage
+		25. UITextField on top of UIImage
+	27. Containing Complex UI
+		28. Create .xib IBDesignable containers
+			29. Simplify constraints by defining elsewhere
+	32. Block UI into sections
+		33. UIView Containers for percentage or fixed sizes
+	35. Relative Layouts
+		36. Leverage the position of one element to guide position of related
+11. Iterative Design
+	1. Version control + saving / backups
+12. Layout Existing Designs
+	13. Tip Calculator
+		14. Content Containers
+		15. Equal width views
+		16. Stylized UITextField
+		17. Stylized UILabel
+		18. Background Image Views
+	20. Calculator
+		21. Equal spaced buttons
+		22. Equal width and height buttons
+		23. Resizable Buttons
+		24. Percentage based views
+	26. Instagram Story Editor
+		27. Relative layout
+		28. Camera / design tools overlay
+30. Limitations of Storyboard files
+	1. Custom Views + composition
+	2. Simplifying constraints
+
+
 ## Chapter 5: Thinking with Auto Layout
+
+1. Workflow
+	1. Right-click and drag for Relationships
+	2. Pin Tool for Multiple Constraints
+
+
+## Chapter 6: Stack Views
+
+10. Seeing Stack Views
+	11. Centered Content
+		12. One element
+	13. Equally spaced (and centered)
+		14. Two or more elements
+	16. Embeded Stack Views (Inception)
+	16. Equal widths and spacing
+	17. Implicit auto layout constraints
+18. Stack View Calculator Layout
+19. Stack View from App Screens
+	20. [[IMAGE: Weather App + Stack Views for high level layout]]
+
+## Chapter 6: Table Views and Scrollable Content
 
 1. Table View Introduction
 2. Dynamic content requries it, and almost every app uses table views
 3. App's decomposed
+4. Table Views
+	5. UILabel multiline (behaviors)
+		6. Gestures to add copy/paste options
+	6. UITextView multiline (behaviors)
+		7. Selection
+		8. Disable scroll to create intrinsic content size, otherwise you need to give it a default size
+	10. Scrollview input area that resizes until max size, then scrolls (Instagram post input window)
+		11. Define a default size, or allow it to grow naturally, like the Messages app
 
 
 ## 30-Day Auto Layout Challenge
@@ -186,6 +276,14 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 1. 30DaysAutoLayout
 2. Pinterest Mood board
 3. Find what you like, mimic it
+4. Tools
+	5. Sketch (and plugins measure, )
+	6. Xcode 10
+	7. Apple SF Fonts (restrictions on usage)
+	7. iOS device
+	8. USB cable
+	9. Pen and paper (pencil)
+	10. People (friends to try your apps)
 
 ## Troubleshooting Auto Layout
 
@@ -199,3 +297,6 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 FUTURE
 17. Placeholder constraints??? When?
+
+Make UI static screen, but enable scroll if Dynamic Text increases (flag?)
+Decide what max text size you want to support
