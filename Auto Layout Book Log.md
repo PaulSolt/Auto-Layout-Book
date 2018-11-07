@@ -17,6 +17,13 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * Next time: Finish Table View, Layout, and Troubleshooting sections
 
+## November 6 2018 22:21:33
+
+* Day 50: Tuesday
+	* 2,993 words (5 pomodoros)
+	* Finishing up layout examples
+	* Need to wrap up the final chapters still 
+		* TODO TableView + 30 day challenge
 
 ## November 5 2018 11:05:40
 
@@ -49,6 +56,8 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * Use the margins that Xcode provides
 * There's a bug when switching Size Classes, select a view, update to fit content size, update frame to resize to fit in new screen bounds
+
+
 
 ## November 3 2018 11:56:40
 
