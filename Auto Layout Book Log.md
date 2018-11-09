@@ -15,6 +15,9 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 ## November 8 2018 16:21:12
 
 * Day 52: Thursday
+	* 281 words (Spent all day working on Table View workshop notes)
+		* Will be translating ideas into words for the Table View book
+		* Capturing key concepts/bugs to avoid/beginner mistakes
 	* Spent today planning new workshop details
 		* Topics
 		* Email sequence
@@ -25,6 +28,8 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 		* **Easy Storyboard Design**
 			* How to make beautiful iOS apps with Auto Layout . . . 
 			* The stress free guide to making beautiful iOS apps using Auto Layout (in Xcode 10)
+		* Easy Auto Layout Design
+			* How to make beautiful iOS apps with Storyboards
 
 
 ## November 7 2018 13:25:33
