@@ -5,17 +5,35 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## Goal
 
-* Restructure the outline
-* 1,500 words
-* I can do … 800 words in 12 minutes … what can I do in 90 minutes?
-* Just get words down, thoughts down, refine it later
+* 3,663 words (4th pomodoro)
+* 3,000 words per day for Final Stretch (Ending November 11th)
+* Push launch to Tuesday, December 18th, 2018, since I didn't start writing until December 17th … 
+	* 90 days is roughly the 17th … make a Tuesday launch, so it's the 18th.
+* May push back Brew Coffee launch to April 3rd, instead of March 19th (depends on length of book, but I feel it'll be a quick write after this book)
 
 
-* Stop Writing at 50 days, need to start editing … I'm going to write forever if I let it drag too long, let's finish this first writing phase in 50 days (20 days over my timeline, yikes!)
+## November 8 2018 16:21:12
+
+* Day 52: Thursday
+	* Spent today planning new workshop details
+		* Topics
+		* Email sequence
+		* Email announcements
+		* Content and timeline
+		* Next steps
+	* Potential book title
+		* **Easy Storyboard Design**
+			* How to make beautiful iOS apps with Auto Layout . . . 
+			* The stress free guide to making beautiful iOS apps using Auto Layout (in Xcode 10)
 
 
+## November 7 2018 13:25:33
 
-* Next time: Finish Table View, Layout, and Troubleshooting sections
+* Day 51: Wednesday
+	* 3,068 words (3rd pomodoro!)
+	* A few more days, cutoff is Sunday, November 11th.
+		* I feel that these sections need to be fleshed out, but they're worth it to uncover the nuances of layout, which is a precursor to Auto Layout
+		* And then I need to dive into the basics of resizable Table Views, since that's in almost every app design
 
 ## November 6 2018 22:21:33
 

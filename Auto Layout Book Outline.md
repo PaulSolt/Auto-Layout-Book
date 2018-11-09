@@ -162,20 +162,6 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 ## Chapter 4: Layout
 
-1. Layout the Tip Calculator App
-2. Layout the Instagram Story Camera
-3. Layout Calculator
-4. Workflow
-	5. Layout for one iPhone
-	5. Constraint for one iPhone
-	6. Tweak for every iPhone
-	7. Version control + saving / backups
-5. Limitations of Storyboard files
-6. Custom Views + composition
-	7. Simplifying constraints
-
-## Layout NEW
-
 1. Layout
 2. Design for One Device
 3. Layout for One Device
@@ -216,18 +202,30 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 11. Iterative Design
 	1. Version control + saving / backups
 12. Layout Existing Designs
-	13. Tip Calculator
+	13. Design files to Xcode Storyboard
+		14. Sketch Measurements Plugin
+		15. Working with designers
+		16. Nudging views
+	13. Tip Calculator (iPhone 8)
 		14. Content Containers
 		15. Equal width views
 		16. Stylized UITextField
 		17. Stylized UILabel
 		18. Background Image Views
-	20. Calculator
-		21. Equal spaced buttons
+			19. Centering Content (Top View)
+			20. Centering labels onto of background views
+				20. Without arrow
+				21. With Arrow
+	20. Calculator (iPhone 8 Plus)
+		21. Rough Layout Calculations
+			22. Screen size / number of elements
+			23. Space between
+		22. Equal spaced buttons
 		22. Equal width and height buttons
 		23. Resizable Buttons
 		24. Percentage based views
-	26. Instagram Story Editor
+			25. Use math to calculate position on screen (height * .20)
+	26. Instagram Story Editor (iPhone XS)
 		27. Relative layout
 		28. Camera / design tools overlay
 30. Limitations of Storyboard files
@@ -237,9 +235,16 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 ## Chapter 5: Thinking with Auto Layout
 
-1. Workflow
-	1. Right-click and drag for Relationships
-	2. Pin Tool for Multiple Constraints
+1. Workflow (Review my 30 auto layout best practices)
+	2. Top to Bottom
+	3. Structure/containers before accessory views
+	3. Outside-in
+	4. Pin Tool for Multiple Constraints
+	5. Right-click and drag for Relationships
+3. Practice Auto Layout Constraints
+	4. Tip Calculator
+	5. Calculator
+	6. Instagram Story Editor
 
 
 ## Chapter 6: Stack Views
@@ -249,17 +254,18 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 		12. One element
 	13. Equally spaced (and centered)
 		14. Two or more elements
-	16. Embeded Stack Views (Inception)
+	16. Embedded Stack Views (Inception)
 	16. Equal widths and spacing
 	17. Implicit auto layout constraints
 18. Stack View Calculator Layout
+	19. Redo the layout from [Layout chapter]
 19. Stack View from App Screens
 	20. [[IMAGE: Weather App + Stack Views for high level layout]]
 
 ## Chapter 6: Table Views and Scrollable Content
 
 1. Table View Introduction
-2. Dynamic content requries it, and almost every app uses table views
+2. Dynamic content requires it, and almost every app uses table views
 3. App's decomposed
 4. Table Views
 	5. UILabel multiline (behaviors)
@@ -274,6 +280,8 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 ## 30-Day Auto Layout Challenge
 
 1. 30DaysAutoLayout
+	2. Different challenges will reference different sections in the book
+	3. Re-read a section the night before, so that you can complete the challenge the next day
 2. Pinterest Mood board
 3. Find what you like, mimic it
 4. Tools
@@ -298,5 +306,7 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 FUTURE
 17. Placeholder constraints??? When?
 
-Make UI static screen, but enable scroll if Dynamic Text increases (flag?)
-Decide what max text size you want to support
+* Make UI static screen, but enable scroll if Dynamic Text increases (flag?)
+* Decide what max text size you want to support
+* Increasing button size (inset vs. larger frame)
+	* Techniques and strategies
