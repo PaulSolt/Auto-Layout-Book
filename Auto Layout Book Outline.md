@@ -296,10 +296,13 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 ## Troubleshooting Auto Layout
 
 1. When things don’t work like you expect
-2. Fixing 9 common beginner mistakes  
+2. Fixing 9 common beginner mistakes 
 3. Bad advice: When to ignore Xcode errors and warnings
 4. Daily Log (Markdown)
 5. Auto Layout table view cells
+6. Diagnose Auto Layout Problems (Expert System to direct to further resources)
+7. iOS App Tune Up (Offer for assistance)
+	8. Fix the most glaring problems
 
 
 
