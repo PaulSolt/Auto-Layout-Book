@@ -313,3 +313,7 @@ FUTURE
 * Decide what max text size you want to support
 * Increasing button size (inset vs. larger frame)
 	* Techniques and strategies
+	* 
+* Accessibility: Make the Images Resizable Vectors
+	* In the Asset Catalog if you're using vector images, you can make the button graphics scale based on the system font size.
+	* Test It with Accessibility Inspector

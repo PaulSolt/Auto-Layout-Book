@@ -10,6 +10,13 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* 90 days is roughly the 17th … make a Tuesday launch, so it's the 18th.
 * May push back Brew Coffee launch to April 3rd, instead of March 19th (depends on length of book, but I feel it'll be a quick write after this book)
 
+## November 10 2018 12:37:06
+
+* Day 54: Saturday
+	* Finishing up the section on Layout
+	* Still need some demo code, but I don't want to spend more time working on demo's when I can get the gist of the concept down
+	* May be moving some sections around, or removing them from the book, so I don't wnat to over commit, until I can evaluate what's going where
+
 ## November 9 2018 12:20:10
 
 * Day 53: Friday
@@ -17,9 +24,9 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* Writing at Joe Bean Coffee Roasters
 	* Question: Can you add accessibility hints and labels to Bar Button Items in Storyboard file? 
 		* I don't see it????
-		* YOu can add a button instead, which wraps a barbutton item around a button, you have to click agaain to add accessibility
+		* YOu can add a button instead, which wraps a barbutton item around a button, you have to click again to add accessibility
 			* QUESTION: Does this work with accessibility?
-	* QUESTION: How do you describe descrturctive buttons in accessiblity?
+	* QUESTION: How do you describe destructive buttons in accessibility?
 		* i.e. this button doesn't save your story?
 	* QUESTION: How do you change the order in which buttons are highlighted by VoiceOver
 		* Seems to be based on the height and works it's way right to left (direction of language)
