@@ -262,7 +262,7 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 19. Stack View from App Screens
 	20. [[IMAGE: Weather App + Stack Views for high level layout]]
 
-## Chapter 6: Table Views and Scrollable Content
+## Chapter 7Pms: Table Views and Scrollable Content
 
 1. Table View Introduction
 2. Dynamic content requires it, and almost every app uses table views
@@ -275,7 +275,6 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 		8. Disable scroll to create intrinsic content size, otherwise you need to give it a default size
 	10. Scrollview input area that resizes until max size, then scrolls (Instagram post input window)
 		11. Define a default size, or allow it to grow naturally, like the Messages app
-
 
 ## 30-Day Auto Layout Challenge
 

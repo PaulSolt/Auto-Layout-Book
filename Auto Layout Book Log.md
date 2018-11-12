@@ -10,6 +10,34 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* 90 days is roughly the 17th … make a Tuesday launch, so it's the 18th.
 * May push back Brew Coffee launch to April 3rd, instead of March 19th (depends on length of book, but I feel it'll be a quick write after this book)
 
+## November 11 2018 08:00:27
+
+* Day 55: Sunday
+	* 2,119 words (3rd ish)
+		* Had trouble working today, but decided that my launch date is going to need to push to January 11th ish.
+		* Finder kept locking up
+		* Typing kept locking up
+		* Mac Maintenance 
+			* Cleared PRAM
+			* Cleared SMC
+			* Booted in Recovery Mode
+				* Unlocked (Mounted) secure drive
+				* Ran Disk Utility First Aid
+					* Both levels ... don't understand why it's different
+					* Problem with one of the Time Machine slices?
+		* Issues are resolved after reboots
+			* Quick Look is working again
+			* So far no issues ... but my F key stopped working in Gmail...
+	* 1711 words: 2nd pomodoro
+	* 906 words: 1st pomodoro
+	* QUESTION: Is there any way to "center" a fullscreen app in Split view?
+		* I'd really like to have two Multimarkdown views in split view, and one centered, with the other off to the side.
+		* Can I make my own "split view controller" for other apps?
+		* The other option is to allow a fullscreen app as a panel/auxillary view to a fullscreen app
+		* QUESTION: Does Multimarkdown composer use Panels?  view debug it
+		* BUG: Multimarkdown/Mac sometimes typing stops working ... in Multimarkdown composer, Spotlight ... what's going on? Do I need to reinstall Mac?
+		
+
 ## November 10 2018 12:37:06
 
 * Day 54: Saturday
