@@ -13,6 +13,12 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 # November 13 2018 19:52:22
 
+* Day 57: Tuesday
+	* Rough day, for some reason I thought it would be a good idea to film videos until 11:30pm, and then eat dinner. 
+		* I couldn't sleep till 2:30am, and I was up at 6:00am out of routine ... headache + can't keep a straight thought
+	* 479 words
+	* Was too focused on Tuesday's "blog" post that totally slipped, because there's so many nuances with Table View Cell layout
+		* At least I have some new workflows that don't resort to math height calculations
 
 ## November 12 2018 08:15:17
 
