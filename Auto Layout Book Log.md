@@ -5,18 +5,15 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## Goal
 
-* 3,000 words per day for Final Stretch (Ending November 11th)
-* Push launch to Tuesday, December 18th, 2018, since I didn't start writing until December 17th … 
-	* 90 days is roughly the 17th … make a Tuesday launch, so it's the 18th.
-* May push back Brew Coffee launch to April 3rd, instead of March 19th (depends on length of book, but I feel it'll be a quick write after this book)
-
+* 2,000 - 3,000 words per day for Final Stretch
+* New launch date: January 22nd, 2019
 
 # November 13 2018 19:52:22
 
 * Day 57: Tuesday
+	* 479 words
 	* Rough day, for some reason I thought it would be a good idea to film videos until 11:30pm, and then eat dinner. 
 		* I couldn't sleep till 2:30am, and I was up at 6:00am out of routine ... headache + can't keep a straight thought
-	* 479 words
 	* Was too focused on Tuesday's "blog" post that totally slipped, because there's so many nuances with Table View Cell layout
 		* At least I have some new workflows that don't resort to math height calculations
 
