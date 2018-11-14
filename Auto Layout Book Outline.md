@@ -262,19 +262,68 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 19. Stack View from App Screens
 	20. [[IMAGE: Weather App + Stack Views for high level layout]]
 
-## Chapter 7Pms: Table Views and Scrollable Content
+## Chapter 7: Table Views and Scrollable Content
 
 1. Table View Introduction
-2. Dynamic content requires it, and almost every app uses table views
-3. App's decomposed
-4. Table Views
-	5. UILabel multiline (behaviors)
-		6. Gestures to add copy/paste options
-	6. UITextView multiline (behaviors)
-		7. Selection
-		8. Disable scroll to create intrinsic content size, otherwise you need to give it a default size
-	10. Scrollview input area that resizes until max size, then scrolls (Instagram post input window)
-		11. Define a default size, or allow it to grow naturally, like the Messages app
+2. Seeing Table Views
+	3. Settings
+	4. Maps Panel
+	5. Facebook
+6. Static Table Views (Storyboard only)
+	7. Add layout constraints in Storyboard
+	8. Quick and easy settings panels (Fast prototyping)
+7. Dynamic Table Views
+	8. Prototype Cells
+	9. Xib Table View Cells
+	10. Programmatic Table View Cells
+11. Xcode 10 and TableView Storyboard Bugs
+	12. Prefer Loading .xib
+		13. Easier to change layout without touching main storyboard (better for teams)
+		14. Less clicking to edit
+		15. More predictable behavior
+		16. Able to test resize/compression easily
+		17. Test content resize with "fake data"
+		18. Con: harder to see the "big picture", use a design file
+20. Designing for Table Views
+	21. Margins change sizes depending on device
+	22. Pin to cell margins for proper iOS style
+	23. Leverage automatic sizing for multiline labels and Dynamic Text
+	24. Design interfaces that scale different fonts sizes
+	25. Design in Sketch, implement in Xcode
+26. Understanding Behavior
+	27. The Rule of One
+		28. One view can stretch in vertical or horizontal directions
+		29. More than one, you'll need constraints establishing the relationship, otherwise it's ambiguous 
+	31. Two vertical multiline labels
+	32. Profile image with multiline labels
+	33. Facebook post with an image
+		34. Image settings
+			35. Clipping
+			36. Fixed width/height
+	34. Different TableViewCells for different content
+	35. One cell versus many cells
+		36. Design for one interface
+		37. One cell requires connecting constraints/stack views to change constraints or hide cells (Needs code)
+		38. All need code, since you'll need new outlets for new content to layout properly
+	40. Reserved names
+		41. UITableView cell already defines names, you need to connect different names
+	43. Hugging and Stretch for Automatic TableViewCells
+		44. TableViewCells that use automatic height will relayout the UI to fit the content (if your constraints are correct)
+		45. Different behavior for layout than you see in a standard UIViewController, which changes shape and has to stretch or compress
+47. Xcode 10 Differences from Xcode 9
+	48. Bugs: Images do not render when Storyboard first opened
+	49. Changes: Font sizes or frames may be different for labels in Xcode 
+19. Exercises
+	20. Create a layout for a blog post
+		21. Title
+		22. Publish Date
+		23. Author
+		24. Body
+26. Text Selection
+	27. UILabel doesn't support selection
+	28. Use UITextArea and disable edit if you want to enable selection
+	29. Users may like to copy text, and the UILabel makes it impossible
+	30. Disable scroll and it'll self size itself like a UILabel (documentation on scroll)
 
 ## 30-Day Auto Layout Challenge
 

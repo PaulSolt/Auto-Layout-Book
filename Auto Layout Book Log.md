@@ -10,6 +10,81 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* 90 days is roughly the 17th … make a Tuesday launch, so it's the 18th.
 * May push back Brew Coffee launch to April 3rd, instead of March 19th (depends on length of book, but I feel it'll be a quick write after this book)
 
+
+# November 13 2018 19:52:22
+
+
+## November 12 2018 08:15:17
+
+* Day 56: Monday
+	* Updated the Table View outline and mindmap (400 words - 1st pomodoro)
+		* WRITE Blog post based on Table View section (or priorities)
+	* Mind Map Stack Views
+	* 2013 words (4th pomodoro)
+	* I need to demo the logic I want to cover in the Workshop, so I can create the lesson handout (and book steps)
+	* Rules of Thumb
+		* Never set the height of a text label, since dyanmic types will change the height, and break your constraints
+		* Always make the UITableViewCell taller than you need
+			* Calculate layout dimensions, adjust to fit margins
+			* Set the content hugging
+			* Set the compression resistance 
+		* Spacing is what matters with a UITableViewCell
+			* Text will resize
+			* Images will resize if you let them (aspect ratio)
+		* Margins change on narrow vs. wide screens (16 vs. 20 vs iPad pro?)
+			* Use the Pin tool and check "Constrain to Margins"
+		* Never change size classes when adding constraints (only after it's completely described)
+	* Exercises:
+		* What is the "Name Label" and the "Quote Labbel" vertical content hugging?
+		* Markup the diagram with content hugging and stretch priorities
+		* Draw what should happen to the Name + Quote label layout when the cell is smaller
+		* Draw what should happen to the Name + Quote label layout when cell is taller
+		* [[Sketch of Name + Quote labels]]
+		* Why should you never switch size classes before adding all the constraints?
+		* What happens if you add a leading constraint of 16 to a TableViewCell?
+			* Always stays 16, even though the margins change width on different sized iPhones (iPhone 8 vs. iPhone XS Max)
+		* How do you make a multiline label in a UITableViewCell
+			* Constrain to all 4 edges
+			* Make number of rows: 0 (multiple lines)
+		* How do you make a label resize based on the system font size?
+			* Use one of apple's Dynamic Type font sizes (Heading, Body, etc.)
+			* Check the "Dynamic Type" checkbox for "Automatically Adjusts Font"
+		* Table View Cell's work outside into center
+			* Oversize the height to create the workspace to add and align views to the margins
+			* Add all the exterior constraints before connecting the interior height constraint
+			* Make your Table View Cell resilient to adapt to any size
+				* This will prevent unwanted errors in the future if Xcode or iOS ever change font sizes.
+				* If you're using Automatic Table View Height, you will only see these compression and resistance issues in Storyboard, and not on the device, which will resize by default in iOS 12.
+			* Lower the Quote Label's Vertical Content Hugging Priority from `251` to `250`.
+				* A lower priority in the vertical direction for the Content Hugging Priority will allow the Quote Label to stretch vertically.
+				* Now the QuoteCell should be resizable in the vertical direction to any height without causing layout issues
+			* Set the height of the "Quote Label" to 50
+				* Now there are compression resistance errors that you need to fix
+	* TODO: Notes on Auto Layout Videos (Upsell or incentive for opt-in)
+		* Create a Google Doc with notes on the Apple WWDC videos
+	* How to get Italics with Dynamic Type in iOS
+		* <https://spin.atomicobject.com/2018/02/02/swift-scaled-font-bold-italic/>
+		* Making an italic font requires code, it's not possible to do with just Storyboard settings
+	* Discovering best practice for sizing (requires an understanding of compression + content hugging)
+		* Recorded 3+ videos for a potential challenge, setup challenge landing page + content ... lots of work
+	* Was at office 12pm - 11:30pm (yikes! screwed up my sleep schedule)
+	* Drafted a 500 word outline for the "Workshop" and related material for the steps required when doing .xib files
+
+
+
+# Quotes Table View Solution
+
+A solution that uses .xib interface file to create a custom UITableViewCell subclass and design.
+
+The design uses Auto Layout and demonstrates how to adjust a Table View Cell with content hugging and compression resistance priorities.
+
+## Auto Layout Code Kata 1: Quote Table View
+
+Added a challenge and potential solutions, along with just a data file.
+
+Students should be able to create a fully functional app after learning Auto Layout.
+
+
 ## November 11 2018 08:00:27
 
 * Day 55: Sunday
@@ -18,6 +93,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 		* Finder kept locking up
 		* Typing kept locking up
 		* Mac Maintenance 
+			* Cleared images from desktop 
 			* Cleared PRAM
 			* Cleared SMC
 			* Booted in Recovery Mode
