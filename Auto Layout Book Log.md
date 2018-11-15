@@ -8,6 +8,25 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# November 15 2018 08:36:26
+
+* Day 59: Thursday
+	* 3,115 words (3.5 pomodoros)
+		* Finished up the layout portion for a table view
+		* Started the constraints portion, and some of the caveats with sizing a talbe view cell ... math is funky when you add constraints
+	* Writing about Table View Cells
+	* QUestion: Can I build a Playground "Table View Cell Tester" that checks a layout for common layout problems at different sizes?
+		* Drop in a table view cell class, and it loads?
+		* Tests edge cases/text clipping (Or checks number of rows) or constraint conflicts at different dimensions?
+			* rows = 0
+			* dynamic text enabled
+			* Accessibility enabled
+			* Constraints don't force clipping of content
+			* Test with long titles/descriptions by looking for all labels and adding a lot of text
+			* Changing font sizes to "simulate" dynamic text font size changes (LARGEST FONT?)
+				* Use the large accessiblity fonts
+	* Or can I just show people how to properly test layouts
+
 # November 14 2018 22:26:24
 
 * Day 58: Wednesday
