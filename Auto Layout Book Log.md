@@ -8,6 +8,22 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# November 14 2018 22:26:24
+
+* Day 58: Wednesday
+	* 98 words (My day disappeared into writing emails, setting up events for a live Q&A, and planning a tutorials and a workshops)
+	* In an effort to work on teaching some materials, as I push back the book, I've been planning workshop materials
+	* Played with code and design today, trying to see how fast I can implement the constraints for a facebook style app with Table View cells
+	* There's a lot of nuances to the "rules" that make up the UI
+		* Getting the priorities straight is actually pretty complex, so I need to break this down into rules that can be reused in different user interfaces
+		* There's the distances between UI elements with a Profile Image and two text labels stacked.
+			* When the font is small, or there is short titles the layout rule is easy, you can simply use the bottom most one in the Table View Cell
+			* But since all content in a Table View is dynamic, this doesn't work if your titles are long, multiline, or the font size changes with Accessibility
+			* That's where you need to have minimum >= 8 spacing, and another constraint trying to pull everything back together (3 constraints to the content below this group of three elements )
+			* [Image] [ Two Stacked Views ] 
+			* [Body text or image content ]
+	* Tomorrow, I need to focus more on writing first thing, and less on emails. I was far too distracted today with email . . . 
+
 # November 13 2018 19:52:22
 
 * Day 57: Tuesday
