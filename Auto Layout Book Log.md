@@ -8,6 +8,13 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# November 16 2018 23:02:58
+
+* Day 60: Friday
+	* 168 words
+	* I should have started writing first thing this morning, but I had a late start ... tons of meetings and emails today, took all my writing time
+	* Yesterday I got stuck driving the wrong direction in a snow storm ... so I didn't get home till super late (1.5 hours in the snowstorm)
+
 # November 15 2018 08:36:26
 
 * Day 59: Thursday

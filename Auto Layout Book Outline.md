@@ -264,6 +264,8 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 ## Chapter 7: Table Views and Scrollable Content
 
+TODO: Reduce the scope to covering only the essentials of design, static and more custom prototype cells will be a topic for a future book.
+
 1. Table View Introduction
 2. Seeing Table Views
 	3. Settings
