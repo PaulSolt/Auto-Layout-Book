@@ -8,6 +8,15 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# November 17 2018 22:26:01
+
+* Day 61: Saturday
+	* 686 words
+	* Long day, prepped for Auto Layout Table View workshop
+		* Got to play with fast prototyping logic with images in the app bundle
+	* Added notes based on design experience today with the workshop, need to finish this section tomorrow.
+		
+
 # November 16 2018 23:02:58
 
 * Day 60: Friday
