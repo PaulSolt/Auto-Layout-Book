@@ -8,13 +8,16 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+#
+
+* Get writing!!!!
 
 
 # November 19 2018 13:32:35
 
 
 * Day 63: Monday
-	* 180 words
+	* 278 words
 	*  Distracted researching app analytics and ... "should I use ads to market my app?"
 	* Thinking about video content based on questions from my 1-on-1 interviews and talking with Antonio (Real Men Real Style)
 		* What's the opt-in?
