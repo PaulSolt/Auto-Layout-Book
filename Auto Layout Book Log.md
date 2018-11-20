@@ -8,6 +8,29 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+
+
+# November 19 2018 13:32:35
+
+
+* Day 63: Monday
+	* 180 words
+	*  Distracted researching app analytics and ... "should I use ads to market my app?"
+	* Thinking about video content based on questions from my 1-on-1 interviews and talking with Antonio (Real Men Real Style)
+		* What's the opt-in?
+		* What's the point?
+			* Use it to advertise my upcoming Auto layout book
+	* Thinking too much about my student 1-on-1s that I can't seem to sit still and write my book, so distracted. I need to clear my workspace, and focus.
+	* QUESTION: If I move a Table View Cell out of a Storyboard, how do I need to create "plumbing" to make it communicate again?
+		* I can connect a Prototype cell directly to the Storyboard, can I do that from a XIB?
+		* Pros/Cons of using XIB
+			* Pro: 
+				* Forces better design (separation of logic)
+			* Con:
+				* More code to get data back to main view controller
+					* Should be using a delegate
+				* Faster to prototype with direct connections in ViewController from prototype storyboard cells
+
 # November 18 2018 21:44:39
 
 * Day 62: Sunday
