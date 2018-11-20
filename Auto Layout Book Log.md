@@ -8,9 +8,28 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
-#
+# November 20 2018 09:47:47
 
+* Day 64 (Tuesday)
+* 5,200 words (4 pomodoros) !!!
+	* Mostly finished, last ... sections??? wohoo!!!
+	* 
+* 4,631 words (3 pomodoros)
+	* Wrote a ton!!!
+	* Was able to focus
+	* Had one productive pomodoro, lead to tons of progress with ideas that have been on my mind since the workshop
+		* Trying to figure out this "layout rule" the "One View Resize Rule"
+	* Workflow
+* Later start than I'd like, I ran at 7:40am, and then was wiped ... it's been a week since I last ran, my ability to run is super low
+	* Energy level crashed post run/breakfast
+	* Goal: 7am write for 25 minutes tomorrow
+	* Should I cut TableView/Stack View ??? edit soon
+* I probably should write/edit first, and focus on core/yoga first thing, so I can get writing by 8am.
+* I need more "me" time in the morning to get moving, so that I can focus throughout the day
+* I need to get home by 8pm to eat dinner, anything later keeps me up at night
+* No coffee after 12pm (4pm kept me up till 1am to 615am), ~5 hours sleep wasn't enough
 * Get writing!!!!
+* QUESTION: TableViewCell vs. Table View Cell vs. "Table View Cell" vs. UITableViewCell (Match Apple's approach to their descriptions for talking about it, how does Erica talk about it? How does NSHipster talk about it)
 
 
 # November 19 2018 13:32:35

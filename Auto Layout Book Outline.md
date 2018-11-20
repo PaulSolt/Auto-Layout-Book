@@ -246,6 +246,22 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	5. Calculator
 	6. Instagram Story Editor
 
+### 30-Day Auto Layout Challenge
+
+1. 30 Days AutoLayout
+	2. Different challenges will reference different sections in the book
+	3. Re-read a section the night before, so that you can complete the challenge the next day
+2. Pinterest Mood board
+3. Find what you like, mimic it
+4. Tools
+	5. Sketch (and plugins measure, )
+	6. Xcode 10
+	7. Apple SF Fonts (restrictions on usage)
+	7. iOS device
+	8. USB cable
+	9. Pen and paper (pencil)
+	10. People (friends to try your apps)
+
 
 ## Chapter 6: Stack Views
 
@@ -327,21 +343,7 @@ TODO: Reduce the scope to covering only the essentials of design, static and mor
 	29. Users may like to copy text, and the UILabel makes it impossible
 	30. Disable scroll and it'll self size itself like a UILabel (documentation on scroll)
 
-## 30-Day Auto Layout Challenge
 
-1. 30DaysAutoLayout
-	2. Different challenges will reference different sections in the book
-	3. Re-read a section the night before, so that you can complete the challenge the next day
-2. Pinterest Mood board
-3. Find what you like, mimic it
-4. Tools
-	5. Sketch (and plugins measure, )
-	6. Xcode 10
-	7. Apple SF Fonts (restrictions on usage)
-	7. iOS device
-	8. USB cable
-	9. Pen and paper (pencil)
-	10. People (friends to try your apps)
 
 ## Troubleshooting Auto Layout
 
