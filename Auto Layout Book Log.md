@@ -8,6 +8,27 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# November 23 2018 07:55:26
+
+* Day 67 (Friday)
+	* Finalize content
+	* Black Friday discount?
+
+# November 22 2018
+
+* Day 66 (Thursday)
+	* Thanksgiving
+	* Wrote 487 words
+	* Busy cooking all day for 13 people
+
+# November 21 2018 
+
+* Day 65 (Wednesday)
+* Last Chapter: Troubleshooting Auto Layout (+next steps)
+	* FINAL edits
+	* Created last outline for final trouble shooting chapter (600 words)
+	* Wrote (200 words)
+
 # November 20 2018 09:47:47
 
 * Day 64 (Tuesday)

@@ -345,17 +345,85 @@ TODO: Reduce the scope to covering only the essentials of design, static and mor
 
 
 
-## Troubleshooting Auto Layout
+## Chapter 8 Troubleshooting Auto Layout
 
 1. When things don’t work like you expect
-2. Fixing 9 common beginner mistakes 
-3. Bad advice: When to ignore Xcode errors and warnings
-4. Daily Log (Markdown)
-5. Auto Layout table view cells
-6. Diagnose Auto Layout Problems (Expert System to direct to further resources)
-7. iOS App Tune Up (Offer for assistance)
-	8. Fix the most glaring problems
+	1. Start over from scratch
+	2. Create a test Xcode project
+	3. Reset your constraints and try again
+	4. Block the design
+	4. Clear the slate
+		5. Clear constraints and fix your layout
+	5. Set identifiers for UI elements (so you can read error messages)
+	6. Use WTFAutoLayout.com 
+	7. Review the fundamentals of constraints, priorities, and content hugging/compression resistance
+	8. Use "Super Easy Auto Layout" (See chapter XX)
+	9. Draw or Sketch designs outside of Xcode
+2. Fixing 9 common beginner mistakes
+	1. Text Clipping Issues
+	2. Fixed height constraints on a font 
+	3. Fixed width with a single line label
+	4. Not using a Content View for UIScrollViews (See video)
+	5. Conflicting constraints (rules that don't work together)
+	6. Direct conflict
+	7. Indirect conflict
+	8. Ambiguous constraints (not enough rules)
+	9. Multiple solutions
+	10. Exercise the ambiguity
+		1. LLDB
+		2. Function call (hook up a button to test)
+	11. Too many constraints (Over-constrained)
+	12. Reduce to the minimum you require
+	13. Layout rules are not multi-device safe (conflict on a different size class)
+	14. Vertical and horizontal dimensions are not specified for a table view cell (default height + clipping)
+	15. Content Hugging Errors (See the Rule of One Resizable View)
+	16. Content Compression Errors (See the Rule of One Resizable View)
+	17. Fixed Frame Layouts
+	18. Can work for small widgets, but not full width/height view controllers
+	19. Using Recommended Constraints (NEVER)
+	20. Switching Size Classes (or rotating) before adding all the constraints (All or nothing)
+	21. Not using the Undo/Redo Keys
+3. Improve your workflow
+	1. Not using Inequalities for edge cases
+	2. Not changing content hugging or compression resistance priorities
+	3. Having a fallback scenario
+	4. Not testing large fonts (Accessibility Inspector)
+	5. Not testing long text strings (User generated content)
+	6. Not testing different aspect ratio images
+	7. Not testing large and small images
+	8. Not using a representative data set to exercise all of your constraints
+	9. Not logging errors to console/log file (SwiftyBeaver)
+	10. Not backing up your work with Github
+	11. Not communicating about UI changes with your team (Project + Storyboard merge conflicts)
+		12. Xcode changes every open (Throw away changes you don't need)
+		13. Github + Git
+		14. Register for details about my Github for iOS Developers Course
+4. Common Beginner iOS UI Errors + Crashes
+	1. Some errors are unrelated to Auto Layout, but reside in the UI + code connection
+	2. Missing function (unrecognized selector)
+		1. Command + Shift + F for the "Selector name", add the missing function
+	3. Not registering a Table View Cell with a table view
+	4. Not setting the Table View Cell reusable identifier
+	5. Unable to connect IBOutlets + IBActions: Not subclassing from the correct class type UITableViewCell, UICollectionViewCell or UIView
+	6. Breakpoint "crash" - You added a break point
+	7. Optional crash from deleted property connection - Reconnect the UI element to the code
+	8. Wrong UI object connected to code
+	9. Proper way to remove an outlet/connection (Delete from the button) 
+	10. Fix your spelling mistakes correctly (Crash on launch)
+5. Bad advice: When to ignore Xcode errors and warnings
+6. Level up your development
+	1. Daily Log (Markdown)
+	2. Practice (Code Katas)
+	3. Start the 30-Day Auto Layout Challenge
+7. Auto Layout table view cells
+8. Get Audited 
+	1. Auto Layout Audit
+	2. Accessibility Audit
+	3. Usability Audit
+9. Diagnose Auto Layout Problems (Expert System to direct to further resources)
+	1. Take the quiz to figure out your problem
 
+-----
 
 
 FUTURE
