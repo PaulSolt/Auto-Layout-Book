@@ -8,11 +8,33 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# November 26 2018 11:22:20
+
+* Day 70 (Monday)
+	* 
+
+# November 25 2018
+
+* Day 69  (Sunday)
+	* Didn't write today, was exhausted, couldn't sleep last night
+	* Drove back to Rochester from Buffalo, post Thanksgiving
+
+# November 24 2018 08:15:29
+
+* Day 68 (Saturday)
+	* 512 words on Troubleshooting
+
 # November 23 2018 07:55:26
 
 * Day 67 (Friday)
 	* Finalize content
-	* Black Friday discount?
+	* Black Friday discount: wrote an email upselling course
+	* Created a new graphic for Learn Auto Layout Fast
+	* Updated the course web page and checkout page
+		* Had to figure out Teachable, since they've restructured course pages, not where things used to be
+	* Didn't actually write today, focused on Black Friday
+	* It's been hard to write with family and irregular schedules (and a lack of office space)
+	* I was a bit under the weather with a sore throat in the evening and very tired
 
 # November 22 2018
 
