@@ -382,6 +382,35 @@ TODO: Reduce the scope to covering only the essentials of design, static and mor
 	18. Can work for small widgets, but not full width/height view controllers
 	19. Using Recommended Constraints (NEVER)
 	20. Switching Size Classes (or rotating) before adding all the constraints (All or nothing)
+6. Level up your development
+	1. Daily Log (Markdown)
+	2. Practice (Code Katas)
+	3. Start the 30-Day Auto Layout Challenge
+7. Auto Layout table view cells
+8. Get Audited 
+	1. Auto Layout Audit
+	2. Accessibility Audit
+	3. Usability Audit
+9. Diagnose Auto Layout Problems (Expert System to direct to further resources)
+	1. Take the quiz to figure out your problem
+
+-----
+
+
+FUTURE
+17. Placeholder constraints??? When?
+
+* Make UI static screen, but enable scroll if Dynamic Text increases (flag?)
+* Decide what max text size you want to support
+* Increasing button size (inset vs. larger frame)
+	* Techniques and strategies
+	* 
+* Accessibility: Make the Images Resizable Vectors
+	* In the Asset Catalog if you're using vector images, you can make the button graphics scale based on the system font size.
+	* Test It with Accessibility Inspector
+
+
+
 	21. Not using the Undo/Redo Keys
 3. Improve your workflow
 	1. Not using Inequalities for edge cases
@@ -411,29 +440,3 @@ TODO: Reduce the scope to covering only the essentials of design, static and mor
 	9. Proper way to remove an outlet/connection (Delete from the button) 
 	10. Fix your spelling mistakes correctly (Crash on launch)
 5. Bad advice: When to ignore Xcode errors and warnings
-6. Level up your development
-	1. Daily Log (Markdown)
-	2. Practice (Code Katas)
-	3. Start the 30-Day Auto Layout Challenge
-7. Auto Layout table view cells
-8. Get Audited 
-	1. Auto Layout Audit
-	2. Accessibility Audit
-	3. Usability Audit
-9. Diagnose Auto Layout Problems (Expert System to direct to further resources)
-	1. Take the quiz to figure out your problem
-
------
-
-
-FUTURE
-17. Placeholder constraints??? When?
-
-* Make UI static screen, but enable scroll if Dynamic Text increases (flag?)
-* Decide what max text size you want to support
-* Increasing button size (inset vs. larger frame)
-	* Techniques and strategies
-	* 
-* Accessibility: Make the Images Resizable Vectors
-	* In the Asset Catalog if you're using vector images, you can make the button graphics scale based on the system font size.
-	* Test It with Accessibility Inspector

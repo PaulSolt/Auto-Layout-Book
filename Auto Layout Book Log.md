@@ -18,6 +18,16 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* 3,306 words (3 pomodoros)
 	* **Time to edit!!!!**
 
+			7,077 Chapter 1 - Auto Layout 101.md
+			25,536 Chapter 2 - Test Drive Auto Layout.md
+			28,628 Chapter 3 - Auto Layout Fundamentals.md
+			12,733 Chapter 4 - Layout.md
+			1,673 Chapter 5 - Thinking with Auto Layout.md
+			2,463 Chapter 6 - Stack Views.md
+			11,842 Chapter 7 - Table View Auto Layout.md
+			5,927 Chapter 8 - Troubleshooting Auto Layout.md
+			95,879 total
+
 # November 25 2018
 
 * Day 69  (Sunday)
