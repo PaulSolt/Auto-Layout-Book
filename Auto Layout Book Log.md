@@ -11,7 +11,12 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 # November 26 2018 11:22:20
 
 * Day 70 (Monday)
-	* 
+	* 4,755 words!
+		* Wrote about how to solve problems, and I probably need to fill this in with some better content. 
+		* I need to know more issues that students are having with their apps (Screenshots of problems)
+	* Finishing the last section, and then starting to edit the sections/titles/headings
+	* 3,306 words (3 pomodoros)
+	* **Time to edit!!!!**
 
 # November 25 2018
 
