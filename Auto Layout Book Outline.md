@@ -13,53 +13,119 @@ My rough draft outline for the [Auto Layout Book](http://bit.ly/AutoLayoutBook).
 
 NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something included.
 
-## Chapter 1: Auto Layout 101 
+# Section 0: Introduction
 
-1. Why
-	1. Design language for modern software UI
-	1. Size + position
-	2. Examples of iPhone Sizes (Screenshots of an app)
-	3. Accessibility (larger fonts)
-	4. Responsive designs
-	5. Resizable windows / split views / slide overs / Air Play monitors
-2. What
-	5. Rules for positions/sizes
-	6. Size + position
-		1. Coordinate system demo (download app)
-	 	2. Points vs. pixels
-		3. Vector vs. pixels
-			4. 1x, 2x, 3x
-			5. PDF vectors
-			6. Preserving vector data (scaling up for accessibility)
-3. Paper Auto Layout
-	10. #PaperAutoLayout Challenge
-	11. Sketch Instagram Story Editor (2018) on paper
-		12. Add rules for the distances (can you measure? xScope or best guess, or Photoshop inspect + count pixels / resolution)
-		10. 3 Equal width buttons
-		11. Instagram UI vs. Auto Layout constraints
-4. Xcode Interface Builder (Quick Tour)
-	6. Error Panels
-		7. Issue Navigator
-		8. Document Outline Error Panel
-	10. Utilities Panel
-	11. Canvas
-	12. Console Output (Errors)
-	13. Object Library (Xcode <=9 vs. Xcode 10+)
-		14. Somewhat of a random change to the UI design
-		15. Not well thought out, but it probably means we'll start seeing some other random (hopefully more coherent changes … a real window management system?)
-		10. Option + Click button to "pin"
-5. What is a constraint? 
-	10. Constraints explained simply
-	11. Constant
-	12. Relation
-13. Xcode is not a design tool
-	14. Don't design in Xcode
-	15. Implement designs
-	16. Hire a designer
+* Preface: Introduction to book
+	* Why Storyboard Auto Layout
+		* Visual
+		* Can be done in code after you understand fundamentals
+		* Easier to tweak designs for different devices
+	* Layout of This Book (Format)
+		* Sections and chapters overview
+	* Download the Books Code and Resources
+		* Github
+		* Code and Design License
+	* Supplemental Video Course on Auto Layout 101
+		* Enroll in the supplemental video course
+		* Watch videos to see how to do it
+	* Get help
+		* Super Easy Apps community forum
+			* Good post form
+		* Contact
+			* Post your question on the forum, and email me
+		* Hire Super Easy Apps
+			* Need help fixing the UI in your app?
+			* 
+## Section 1: Auto Layout 101 
+
+* Chapter 1: Why Auto Layout?
+	* Introduction
+		* Design language for modern software UI
+		* Modern iPhone UI Design
+	* Examples of Screen Sizes 
+		* Screenshots of an app on iPhone SE vs. iPhone XS Max
+	* Enabling People with Limited or Impaired Vision
+	* Accessibility
+	* Responsive Designs
+	* Resizable Windows / Views
+		* Resizable windows / split views / slide overs / Air Play monitors
+		* Device sizes
+		* Landscape and portrait orientations
+	* Size + position
+	* Examples of iPhone Sizes (Screenshots of an app)
+	* Accessibility (larger fonts)
+	* Responsive designs
+* Chapter 2: What is Auto Layout
+	* What Does Auto Layout Do?
+	* Rules for positions/sizes
+	* Size + position
+		* Exercise: Coordinate system demo (download app)
+			* iPhone Coordinate System Demo
+				* Points vs. Pixels
+				* Vectors vs. Pixels
+				* Pros and Cons of Vectors
+		* Exercise: Preserving vector data (scaling up for accessibility)
+	* What Are Constraints?
+		* What Is a Constraint?
+		* Constraints Explained Simply
+			* Constant
+			* Relation
+		* Constraint Anatomy
+			* Left Right vs. Leading Trailing
+			* Language Direction Matters (iPhone can flip layout!)
+	* EXERCISES: 
+		* Paper Auto Layout
+		* App Ideas: It All Starts on Paper
+		* Digital Sketch
+		* Sketch Challenge
+		* Workbook Layout Challenge: Design the Room
+		* Layout Instagram: Workbook Challenge
+			* #PaperAutoLayout Challenge
+		* MEASURE
+			* Sketch Instagram Story Editor (2018) on paper
+			* Add rules for the distances (can you measure? xScope or best guess, or Photoshop inspect + count pixels / resolution)
+			* 3 Equal width buttons
+			* Instagram UI vs. Auto Layout constraints
+* Chapter 3: Xcode Quick Tour
+	* Xcode Interface Builder (Quick Tour)
+	* Error Panels
+		* Issue Navigator
+		* Document Outline Error Panel
+	* Utilities Panel
+	* Canvas
+	* Console Output (Errors)
+	* Object Library (Xcode <=9 vs. Xcode 10+)
+		* Xcode 9 Object Library
+		* Xcode 10 Object Library 
+			* Option + Click button or Option + Drag to "pin" panel
+			* Xcode BUG: Feature add a button to pin the panel open
+	* Xcode Lies
+		* Read between the lines
+		* Learn to interpret what Xcode is telling you
+		* Search Google for why?
+		* Xcode isn't good at telling you why, only that something isn't right (or expected)
+			* See Xcode Bug Triage section
+* Chapter 4: Xcode is not a design tool
+	* Don't design in Xcode
+	* Implement designs in Xcode (add the rules)
+		* Layout in Xcode
+		* Then add constraints (the rules)
+	* Hire a UI/UX designer
+		* UI: how it looks
+		* UX: how it works
+		* Upwork
+		* Mood board on Pinterest (fonts, colors, shapes)
+			* Read: Artwork Evolution hiring an artist
+
+
+## Overflow:
+
+* When You've Wasted 3 Weeks on Bad Feature
+
 
 TODO: get the reader to describe on paper how Instagram UI should be displayed #AutoLayoutOnPaper
 
-## Chapter 2: Test Drive Auto Layout
+## Section 2: Test Drive Auto Layout
 
 * Real World Example
 * Design for one iPhone
@@ -367,6 +433,10 @@ TODO: Reduce the scope to covering only the essentials of design, static and mor
 	7. Review the fundamentals of constraints, priorities, and content hugging/compression resistance
 	8. Use "Super Easy Auto Layout" (See chapter XX)
 	9. Draw or Sketch designs outside of Xcode
+10. Triage an Auto Layout Error message [triage-auto-layout-error]
+	11. Steps to take
+	12. WTF Auto Layout
+	12. Still stuck? Start over
 2. Fixing 9 common beginner mistakes
 	1. Text Clipping Issues
 	2. Fixed height constraints on a font 

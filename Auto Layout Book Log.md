@@ -24,6 +24,12 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 		* Custom UITextField backgrounds
 	* Where does the Pricing ScrollView + XIB fit in?
 * Item #'s for best practices
+* As I edit, I may want to move sections, but first let's focus on getting those sections where they need to be, and if they need to be cut, cut them, so I can focus on supplementals
+* Add reference tags to any section that I want to refer to using [kabab-notation]
+	* Add reference to the outline, so that I can see the section
+* Plan
+	* Revise the outline with the given chapter headings
+	* Restructure into new chapters (within the sections)
 
 # November 26 2018 11:22:20
 
