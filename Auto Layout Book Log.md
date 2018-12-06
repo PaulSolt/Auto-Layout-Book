@@ -8,6 +8,23 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# December 6 2018 10:57:58
+
+* Day 1 of Editing the book!
+	* I haven't been tracking my edits, and it's been slower than normal because Steph and I have been under the weather
+	* I created a script headings to convert my markdown headings (#) into a bulleted list, so I can see the overview of the content in the book
+	* I need to create subchapters with the content, and reorganize the flow, but it's hard to see how to do that, because there's so much content.
+	* I want to have quick an actionable steps to follow, and it's a question on when and where I should introduce topics
+	* Too much detail is overwhelming to the beginner, but there's a lot of gotchas when you get started with Auto Layout, so some inline comments is good, but it shouldn't derail the task of adding the layout
+	* I need to then create a list of best practices for
+		* Centering an image
+		* 3 horizontal equal width buttons
+		* 3 vertical equal width buttons
+		* Custom UIButton graphics
+		* Custom UITextField backgrounds
+	* Where does the Pricing ScrollView + XIB fit in?
+* Item #'s for best practices
+
 # November 26 2018 11:22:20
 
 * Day 70 (Monday)
@@ -18,15 +35,15 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 	* 3,306 words (3 pomodoros)
 	* **Time to edit!!!!**
 
-			7,077 Chapter 1 - Auto Layout 101.md
-			25,536 Chapter 2 - Test Drive Auto Layout.md
-			28,628 Chapter 3 - Auto Layout Fundamentals.md
-			12,733 Chapter 4 - Layout.md
-			1,673 Chapter 5 - Thinking with Auto Layout.md
-			2,463 Chapter 6 - Stack Views.md
-			11,842 Chapter 7 - Table View Auto Layout.md
-			5,927 Chapter 8 - Troubleshooting Auto Layout.md
-			95,879 total
+7,077 Chapter 1 - Auto Layout 101
+25,536 Chapter 2 - Test Drive Auto Layout
+28,628 Chapter 3 - Auto Layout Fundamentals
+12,733 Chapter 4 - Layout
+1,673 Chapter 5 - Thinking with Auto Layout
+2,463 Chapter 6 - Stack Views
+11,842 Chapter 7 - Table View Auto Layout
+5,927 Chapter 8 - Troubleshooting Auto Layout
+95,879 total words
 
 # November 25 2018
 

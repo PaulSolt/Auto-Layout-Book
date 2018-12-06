@@ -5,6 +5,10 @@ Paul Solt
 
 **Topic:** iPhone App UI Design with Auto Layout and Storyboards
 
+Nonfiction > Computers > User Interfaces
+Nonfiction > Computers > Programming > Mobile Devices
+
+
 My rough draft outline for the [Auto Layout Book](http://bit.ly/AutoLayoutBook). Chapters and ideas are subject to change.
 
 NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something included.
@@ -17,7 +21,7 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	2. Examples of iPhone Sizes (Screenshots of an app)
 	3. Accessibility (larger fonts)
 	4. Responsive designs
-	5. Resizable windows / split views / Air Play monitors
+	5. Resizable windows / split views / slide overs / Air Play monitors
 2. What
 	5. Rules for positions/sizes
 	6. Size + position
@@ -48,34 +52,38 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	10. Constraints explained simply
 	11. Constant
 	12. Relation
+13. Xcode is not a design tool
+	14. Don't design in Xcode
+	15. Implement designs
+	16. Hire a designer
 
 TODO: get the reader to describe on paper how Instagram UI should be displayed #AutoLayoutOnPaper
 
 ## Chapter 2: Test Drive Auto Layout
 
-1. Real World Example
-2. Design for one iPhone
-3. Add constraints to the Tip Calculator app
-	10. Centering Content in Container Views
-	11. Equal width contraints
-	12. Structural vs. accessory views
-4. Undo/redo/restart
-3. Breaking Constraints (unpredictable behavior)
-	4. Common Errors
-	5. Let's break it
-4. Colors of Auto Layout
-	5. Ambiguous
-	6. Conflicting
-4. Images
-	14. Content mode
-	15. Clipping
-	16. Stretching
-18. TODO: Challenge 1: Do it again from scratch
-19. MOVE: Challenge 1a: connect the UI
-19. DONE: Challenge 2: add iPhone X support (Safe Areas)
-20. TODO: Challenge 3: Reset to suggested constraints (does it work?)
-4. DONE: Add iPhone 8 Plus support (larger … button stretching)
-5. TODO: Add iPhone SE support (smaller buttons 44pt?)
+* Real World Example
+* Design for one iPhone
+* Add constraints to the Tip Calculator app
+	* Centering Content in Container Views
+	* Equal width contraints
+	* Structural vs. accessory views
+* Undo/redo/restart
+* Breaking Constraints (unpredictable behavior)
+	* Common Errors
+	* Let's break it
+* Colors of Auto Layout
+	* Ambiguous
+	* Conflicting
+* Images
+	* Content mode
+	* Clipping
+	* Stretching
+* TODO: Challenge 1: Do it again from scratch
+* MOVE: Challenge 1a: connect the UI
+* DONE: Challenge 2: add iPhone X support (Safe Areas)
+* TODO: Challenge 3: Reset to suggested constraints (does it work?)
+* DONE: Add iPhone 8 Plus support (larger … button stretching)
+* TODO: Add iPhone SE support (smaller buttons 44pt?)
 
 ## Chapter 3: Auto Layout Fundamentals
 
@@ -235,32 +243,32 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 
 ## Chapter 5: Thinking with Auto Layout
 
-1. Workflow (Review my 30 auto layout best practices)
-	2. Top to Bottom
-	3. Structure/containers before accessory views
+1. Workflow (Review my 30 auto layout best practices) 
+	1. Top to Bottom
+	2. Structure/containers before accessory views
 	3. Outside-in
 	4. Pin Tool for Multiple Constraints
 	5. Right-click and drag for Relationships
-3. Practice Auto Layout Constraints
-	4. Tip Calculator
-	5. Calculator
-	6. Instagram Story Editor
+2. Practice Auto Layout Constraints 
+	1. Tip Calculator
+	2. Calculator
+	3. Instagram Story Editor 
 
 ### 30-Day Auto Layout Challenge
 
 1. 30 Days AutoLayout
-	2. Different challenges will reference different sections in the book
-	3. Re-read a section the night before, so that you can complete the challenge the next day
+	1. Different challenges will reference different sections in the book
+	2. Re-read a section the night before, so that you can complete the challenge the next day
 2. Pinterest Mood board
 3. Find what you like, mimic it
 4. Tools
-	5. Sketch (and plugins measure, )
-	6. Xcode 10
-	7. Apple SF Fonts (restrictions on usage)
-	7. iOS device
-	8. USB cable
-	9. Pen and paper (pencil)
-	10. People (friends to try your apps)
+	1. Sketch (and plugins measure, )
+	2. Xcode 10
+	3. Apple SF Fonts (restrictions on usage)
+	4. iOS device
+	5. USB cable
+	6. Pen and paper (pencil)
+	7. People (friends to try your apps)
 
 
 ## Chapter 6: Stack Views
@@ -400,7 +408,7 @@ TODO: Reduce the scope to covering only the essentials of design, static and mor
 FUTURE
 17. Placeholder constraints??? When?
 
-* Make UI static screen, but enable scroll if Dynamic Text increases (flag?)
+* Make UI static screen, "but enable scroll if Dynamic Text increases"(flag?)
 * Decide what max text size you want to support
 * Increasing button size (inset vs. larger frame)
 	* Techniques and strategies
