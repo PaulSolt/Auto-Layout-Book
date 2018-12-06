@@ -30,6 +30,7 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * Plan
 	* Revise the outline with the given chapter headings
 	* Restructure into new chapters (within the sections)
+	* Copy/paste content from each chapter into the corresponding section
 
 # November 26 2018 11:22:20
 
