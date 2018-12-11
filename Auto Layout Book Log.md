@@ -8,6 +8,32 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 * 2,000 - 3,000 words per day for Final Stretch
 * New launch date: January 22nd, 2019
 
+# December 10 2018 20:05:16
+
+* Day 4 of editing
+	* Wrote: 3698 words
+	* Rearranged content from Section 1 into 5 chapters within Auto Layout 101 section
+	* Submitted 3 bug reports on Asset Catalog + Alignment Rectangles
+
+# December 8 2018 14:26:06
+
+* Day 3 of editing
+	* Trying to copy/paste content into sections using Multimarkdown so I can see TOC and place in spots
+	* 
+
+# December 7 2018 11:29:15
+
+* Day 2 of editing
+	* I've created two scripts for converting text into an outline, and then back into headings
+	* My chapters are really sections, so I need to split them up into the parts, and I need to rearrange the content.
+	* I'm rearranging the content in an outline form, where I've taken the section titles and inserted them into my current outline
+	* Then I took my new outline and converted it into headings, so that I can copy/paste from the section into the appropriate locations
+	* I'll remove parts that are not needed into an "overflow" file
+	* Next I'll do my read through and pass the documents to my copy editor
+	* I'm not good at OS scripting, and the scripts aren't as robust as I'd like.
+		* It's really hard to test OS scripts, and I keep having bugs with typing, which is why I plan on doing more scripting using Swift where I can write unit tests and verify the logic works without breaking
+
+
 # December 6 2018 10:57:58
 
 * Day 1 of Editing the book!

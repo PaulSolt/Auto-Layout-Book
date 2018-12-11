@@ -35,7 +35,8 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 			* Post your question on the forum, and email me
 		* Hire Super Easy Apps
 			* Need help fixing the UI in your app?
-			* 
+	* Auto Layout Books and Resources
+
 ## Section 1: Auto Layout 101 
 
 # Chapter 1: Why Auto Layout?
@@ -53,9 +54,6 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	* Device sizes
 	* Landscape and portrait orientations
 * Size + position
-* Examples of iPhone Sizes (Screenshots of an app)
-* Accessibility (larger fonts)
-* Responsive designs
 
 # Chapter 2: What is Auto Layout
 
@@ -63,10 +61,9 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	* Rules for positions/sizes/spaces
 * Size + position
 	* Exercise: Coordinate system demo (download app)
-		* iPhone Coordinate System Demo
-			* Points vs. Pixels
-			* Vectors vs. Pixels
-			* Pros and Cons of Vectors
+		* Points vs. Pixels
+		* Vectors vs. Pixels
+		* Pros and Cons of Vectors
 	* Exercise: Preserving vector data (scaling up for accessibility)
 * What Are Constraints?
 	* What Is a Constraint?
@@ -104,12 +101,15 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	* Xcode 10 Object Library 
 		* Option + Click button or Option + Drag to "pin" panel
 		* Xcode BUG: Feature add a button to pin the panel open
-* Xcode Lies
+* Xcode Lies [[TODO: Move to Debugging section]]
 	* Read between the lines
 	* Learn to interpret what Xcode is telling you
 	* Search Google for why?
 	* Xcode isn't good at telling you why, only that something isn't right (or expected)
 		* See Xcode Bug Triage section
+* EXCERCISE
+	* UILabel + UITextField + Button + View (orange top view 200 px)
+		* Content on bottom edge of top view
 
 # Chapter 4: Xcode is not a design tool
 
@@ -358,6 +358,10 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	19. Redo the layout from [Layout chapter]
 19. Stack View from App Screens
 	20. [[IMAGE: Weather App + Stack Views for high level layout]]
+21. Why you can't resize stack views (Need layout constraints)
+	22. Spacer views with 1 1 compression resistance 
+	23. Container stack views to enable easy rotation support
+	24. Enabling size class variations and testing 
 
 ## Chapter 7: Table Views and Scrollable Content
 
