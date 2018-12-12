@@ -6,7 +6,27 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 ## Goal
 
 * 2,000 - 3,000 words per day for Final Stretch
-* New launch date: January 22nd, 2019
+* New launch date: February 12th, 2019
+
+# December 11 2018 09:43:44
+
+* Day 5 of editing
+	* Do I need permission to use screenshots in the book?
+		* Prefer to use all my app screenshots, but it might be nice to showcase some other apps ... but maybe that's why other books avoid showing good looking apps ... it's expensive?
+	* Am I allowed to mention popular apps? Or do I need permission to use their trademark names in my book?
+	* Ask Amanda input on screenshots/trademarks
+	* What did About Face do for trademarks of screenshots of apps and critique ?
+		* Keep it positive?
+	* Trademark list
+		* Apple TV, Apple Watch, Mac, macOS, iOS, Xcode, Dynamic Type, Split Screen, Slide Over, iPhone X, iPhone SE, iPhone XS Max, iPad, iPhone XR, iPhone 8, iPhone 8 Plus, App Store, iOS, iOS 12, 5K Retina iMac,
+		* Cocoa, Swift, Auto Layout, Storyboard, Accessibility Inspector,  
+		* Sketch
+	* 1,373 words today
+		* Spent a lot of time researching IBDesignable, stack views with IBDesignable (XIBTest for Tip Callout)
+		* Spent time reviewing a tutorial lesson on creating a Quiz interface
+		* 4 buttons + image + question with a Nav bar is limited space on iPhone SE ... collapse buttons to minium, reduce font size ... use large text, collapse buttons to 4 up square instead of vertical
+		* Tried using the Ripple delete in Screenflow
+		* Screencast had too much mouse movement
 
 # December 10 2018 20:05:16
 

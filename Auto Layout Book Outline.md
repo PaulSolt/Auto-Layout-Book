@@ -326,6 +326,10 @@ TODO: get the reader to describe on paper how Instagram UI should be displayed #
 	1. Tip Calculator
 	2. Calculator
 	3. Instagram Story Editor 
+4. Rearranging Views
+	5. Switch a Label and an IMage (QUiz App)
+5. Rearranging Stack Views (Implement Quiz App with Stack Views)
+6. Resizable Buttons (iPhone SE vs. iPhone XS Max) Quiz App
 
 ### 30-Day Auto Layout Challenge
 
