@@ -5,8 +5,16 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 ## Goal
 
-* 2,000 - 3,000 words per day for Final Stretch
 * New launch date: February 12th, 2019
+
+# December 12 2018 13:26:21
+
+* Day 6 of editing
+	* Had 4 productive pomodoros (25 min) editing the first chapter and moving content to the 2nd chapter
+	* Trying to get the basic structure in place using the content and ideas that I've written down in the writing phase
+	* 5 pomodoro's
+		* 4,212 words add, 2830 words removed
+		* Finishing up Chapter 1, and reworking Chapter 2
 
 # December 11 2018 09:43:44
 

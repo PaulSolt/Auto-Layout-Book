@@ -53,7 +53,6 @@ NOTE:  You can send me an [email](Paul@SuperEasyApps.com) if you want something 
 	* Resizable windows / split views / slide overs / Air Play monitors
 	* Device sizes
 	* Landscape and portrait orientations
-* Size + position
 
 # Chapter 2: What is Auto Layout
 
