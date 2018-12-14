@@ -7,6 +7,12 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * New launch date: February 12th, 2019
 
+# December 13 2018 11:37:59
+
+
+* Day 7 of editing
+	* Points vs. Pixels might be enough to extract into it's own chapter
+
 # December 12 2018 13:26:21
 
 * Day 6 of editing
