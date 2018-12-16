@@ -7,6 +7,14 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * New launch date: February 12th, 2019
 
+# December 14 2018 09:39:13
+
+* Day 8 of editing
+	* Cross references across chapters are going to be challenging, unless I have a convention for linkings
+		* A.A, so that I can renumber later ... not sure what chapter numbers will be yet, so if I use letters, then I can rename all instances.
+		* Use X.X for any that I don't need to reference, use A.B, A.C for ordering (doesn't need to be in-order, just needs to be unique)
+			* Can write a script to reorder and update all references
+
 # December 13 2018 11:37:59
 
 
