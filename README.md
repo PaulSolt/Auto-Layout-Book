@@ -6,7 +6,7 @@ A beginner's guide to Auto Layout using Xcode 10 and Storyboards
 
 ## Publish Date 
 
-November 27th, 2018
+February 12th, 2019
 
 ## Who's the Book for?
 
@@ -22,17 +22,14 @@ Paul Solt is a former Apple employee who has been building iPhone apps since 201
 
 * Estimated Length 
 	* 20 Chapters
-	* 20,000 - 28,000 words
 * Target Velocity 
-	* 5 chapters/week
-	* 5,000 - 7,000 words/week
-	* 750 - 1,000 words/day
 * Writing Start Date
 	* September 17th
 * Writing Finish Date
-	* October 17th
+	* Novemeber 27th
+* Currently Editing
 
-## Outline
+## High Level Outline
 
 ### Section 1: Auto Layout Fundamentals
 
