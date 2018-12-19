@@ -7,6 +7,13 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * New launch date: February 12th, 2019
 
+# December 19 2018 10:31:54
+
+* Day 10 of editing
+	* hitting the pavement and exercising first thing has brought more energy back, I missed doing this after I pulled my back
+	* I need to get back into a little faster routine, but for now, being active and sleeping better is my priority, so I can think, rearrange, and organize my thoughts
+	* Wrote and edited over 2,193 words, good progress for intro chapter getting people to understand how a constraint works with a real world example.
+	* Need to make sure I have project downloads (how to organize xcode projects?)
 
 # December 18 2018 12:55:18
 
