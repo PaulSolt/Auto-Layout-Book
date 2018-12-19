@@ -7,6 +7,31 @@ My Progress Log on writing the [Auto Layout Book](http://bit.ly/AutoLayoutBook)
 
 * New launch date: February 12th, 2019
 
+
+# December 18 2018 12:55:18
+
+* Day 9 of editing
+	* Took a break from working on the book to try and recharge
+	* Need more sleep
+		* Trying to get more sleep by cutting off devices between 9/930pm, so I can read a printed book to fall asleep easier
+		* Next: try to avoid eating too late (after 8pm)
+	* I'd like to create a list of the best practices, and then reference them from the sections where it's relevant, that way I can allude to a best practice, and followup with more discussion, rather than getting to into the weeds during the demonstration portion.
+		* I think it's still good to walk through, but it would be equally nice to have a "quick tutorial" that you can follow fast, rather than having to go through all the why
+	* Finished editing the bulk of Chapter 2
+		* Added exercises
+		* Added challenges
+		* Added objectives
+	* Question: I can get button heights to reduce with extra constraints, but how can I get font sizes to reduce on smaller screen sizes without code?
+		* Is there any way to tie constraints to the font size?
+		* I think you need code, and you'll need to look at the vertical size
+			* Make a cutoff for heights < 5XX, and reduce fonts across the board for the UI (Assuming we're not rotated ... even if we rotate you might want to adjust ... or don't rotate)
+	* BP20: You always want to stretch a stack view using constraints, not by dragging it's size, otherwise you'll end up adding huge spacers, which will throw off your layout design.
+	* BUG with layout width ... strange things happening on iPhone XS Max with percentage based constriants and a stack view fill proportionally
+		* I can't figure out what Keith talked about with adding a constraint when in a stack view
+		* I'm not exactly sure what he's talking about, but I'm not sure how to get the spacing on the left, unless you set a space on the stack view itself, using the width the view ... is that what he means?
+	* BP21: You can set fixed layout margins on a Stack View to inset the content a fixed distance from the edges (1/2 space of view contained within if using 50x50 squares)
+		* At that point, maybe a collection view is better ?
+
 # December 14 2018 09:39:13
 
 * Day 8 of editing
